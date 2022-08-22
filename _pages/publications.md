@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+In Submission
+=====
+4. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information".
 
-{% include base_path %}
+3. **Zhe QU**, Xingyu Li, Xiao Han, Rui Duan, Keyu Chen, Shangqing Zhao, and Lixing Chen. "Personalize Locally, Generalize Universally: Towards Client-Variance Reduction For Personalized Federated Learning".
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation".
+
+1. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "Stragglers are not disaster: A hybrid federated learning algorithm with delayed gradients".
+
+
+
+
