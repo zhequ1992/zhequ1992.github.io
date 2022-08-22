@@ -26,8 +26,10 @@ Journal Publications
 Conference Publications
 =====
 1. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "[Perception-Aware Attack: Creating Adversarial Music via
-Reverse-Engineering Human Perception](https://arxiv.org/pdf/2207.13192.pdf)". In ACM Conference on Computer and Communications Security (CCS), 2022.
-2. **Zhe Qu**, Xingyu Li, Rui Duan, Yao Liu, Bo Tang and Zhuo Lu. "[Generalized Federated Learning via Sharpness Aware Minimization](https://arxiv.org/pdf/2206.02618.pdf)". In International Conference on Machine Learning (ICML), 2022.
+Reverse-Engineering Human Perception](https://arxiv.org/pdf/2207.13192.pdf)". In ACM Conference on Computer and Communications Security (CCS), 2022. (CCF A)
+2. **Zhe Qu**, Xingyu Li, Rui Duan, Yao Liu, Bo Tang and Zhuo Lu. "[Generalized Federated Learning via Sharpness Aware Minimization](https://arxiv.org/pdf/2206.02618.pdf)". In International Conference on Machine Learning (ICML), 2022. (CCF A)
+3. Tao Hou, **Zhe Qu**, Tao Wang, Zhuo Lu, and Yao Liu. "[ProTO: Proactive Topology Obfuscation Against Adversarial Network Topology Inference](https://csalab.site/getsrc/?n=papers/20hqw-info.pdf)". In IEEE Conference on Computer Communications (INFOCOM), 2020. (CCF A)
+4. Shangqing Zhao, **Zhe Qu**, Zhengping Luo, Zhuo Lu and Yao Liu. "[Comb Decoding towards Collision-Free WiFi](https://csalab.site/getsrc/?n=papers/20zql-nsdi.pdf)". In USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2020. (CCF A)
 
 
 
