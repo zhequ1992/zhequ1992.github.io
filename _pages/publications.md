@@ -13,7 +13,7 @@ In Submission
 
 3. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation". \*Equal contribution
 
-4. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "Stragglers are not disaster: A hybrid federated learning algorithm with delayed gradients".
+4. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "Stragglers are not disaster: A hybrid federated learning algorithm with delayed gradients".
 
 Journal Publications
 =====
@@ -22,6 +22,11 @@ Journal Publications
 3. Xingyu Li\*, **Zhe Qu\***, Shangqing Zhao, Bo Tang, Zhuo Lu, and Yao Liu. "[LoMar: A Local Defense Against Poisoning Attack on Federated Learning](https://arxiv.org/pdf/2201.02873.pdf)". IEEE Transactions on Dependable and Secure Computing, 2021 (Early Access). (CCF A) \*Equal contribution
 4. **Zhe Qu**, Shangqing Zhao, Jie Xu, Zhuo Lu, and Yao Liu. "[How to Test the Randomness From the Wireless Channel for Security?](https://arxiv.org/pdf/2106.07715.pdf)". IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3753-3766, June 2021. (CCF A) 
 5. Zhengping Luo, **Zhe Qu**, Tung Nguyen, Hui Zeng, and Zhuo Lu. "[Security of HPC systems: From a log-analyzing perspective](https://csalab.site/getsrc/?n=papers/19lqn-etss.pdf)". EAI Endorsed Transactions on Security and Safety, vol. 6, no. 21, e5, 2019.
+
+Conference Publications
+=====
+1. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "[Perception-Aware Attack: Creating Adversarial Music via
+Reverse-Engineering Human Perception](https://arxiv.org/pdf/2207.13192.pdf)". In ACM Conference on Computer and Communications Security (CCS), 2022.
 
 
 
