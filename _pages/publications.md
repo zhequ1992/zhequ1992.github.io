@@ -7,17 +7,17 @@ author_profile: true
 
 In Submission
 =====
-4. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information".
+1. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information".
 
-3. **Zhe Qu**, Xingyu Li, Xiao Han, Rui Duan, Keyu Chen, Shangqing Zhao, and Lixing Chen. "Personalize Locally, Generalize Universally: Towards Client-Variance Reduction For Personalized Federated Learning".
+2. **Zhe Qu**, Xingyu Li, Xiao Han, Rui Duan, Keyu Chen, Shangqing Zhao, and Lixing Chen. "Personalize Locally, Generalize Universally: Towards Client-Variance Reduction For Personalized Federated Learning".
 
-2. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation".
+3. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation".
 
-1. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "Stragglers are not disaster: A hybrid federated learning algorithm with delayed gradients".
+4. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "Stragglers are not disaster: A hybrid federated learning algorithm with delayed gradients".
 
 Journal Publications
 =====
-
+1. \textbf{Zhe Qu}, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu. "[On the Convergence of Multi-Server Federated Learning with Overlapping Area](https://arxiv.org/pdf/2208.07893.pdf)". IEEE Transactions on Mobile Computing, 2022 (Early Access). (CCF A) 
 
 
 
