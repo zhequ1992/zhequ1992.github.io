@@ -27,6 +27,7 @@ Conference Publications
 =====
 1. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "[Perception-Aware Attack: Creating Adversarial Music via
 Reverse-Engineering Human Perception](https://arxiv.org/pdf/2207.13192.pdf)". In ACM Conference on Computer and Communications Security (CCS), 2022.
+2. **Zhe Qu**, Xingyu Li, Rui Duan, Yao Liu, Bo Tang and Zhuo Lu. "[Generalized Federated Learning via Sharpness Aware Minimization](https://arxiv.org/pdf/2206.02618.pdf)". In International Conference on Machine Learning (ICML), 2022.
 
 
 
