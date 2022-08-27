@@ -14,7 +14,7 @@ In Submission
 Journal Publications
 =====
 1. **Zhe Qu**, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu. "[On the Convergence of Multi-Server Federated Learning with Overlapping Area](https://arxiv.org/pdf/2208.07893.pdf)". IEEE Transactions on Mobile Computing, 2022 (Early Access). (CCF A) 
-2. **Zhe Qu**, Rui Duan, Lixing Chen, Jie Xu, Zhuo Lu, and Yao Liu. "[Context-Aware Online Client Selection for Hierarchical Federated Learning](https://arxiv.org/pdf/2112.00925.pdf)". IEEE Transactions on Parallel and Distributed Systems, 2022 (Early Access). (CCF A)
+2. **Zhe Qu**, Rui Duan, Lixing Chen, Jie Xu, Zhuo Lu, and Yao Liu. "[Context-Aware Online Client Selection for Hierarchical Federated Learning](https://arxiv.org/pdf/2112.00925.pdf)". IEEE Transactions on Parallel and Distributed Systems, Volume: 33, Issue: 12, 01, pp. 4353 - 4367, December 2022. (CCF A)
 3. Xingyu Li\*, **Zhe Qu\***, Shangqing Zhao, Bo Tang, Zhuo Lu, and Yao Liu. "[LoMar: A Local Defense Against Poisoning Attack on Federated Learning](https://arxiv.org/pdf/2201.02873.pdf)". IEEE Transactions on Dependable and Secure Computing, 2021 (Early Access). (CCF A) \*Equal contribution
 4. **Zhe Qu**, Shangqing Zhao, Jie Xu, Zhuo Lu, and Yao Liu. "[How to Test the Randomness From the Wireless Channel for Security?](https://arxiv.org/pdf/2106.07715.pdf)". IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3753-3766, June 2021. (CCF A) 
 5. Zhengping Luo, **Zhe Qu**, Tung Nguyen, Hui Zeng, and Zhuo Lu. "[Security of HPC systems: From a log-analyzing perspective](https://csalab.site/getsrc/?n=papers/19lqn-etss.pdf)". EAI Endorsed Transactions on Security and Safety, vol. 6, no. 21, e5, 2019.
