@@ -21,7 +21,7 @@ Journal Publications
 Conference Publications
 =====
 1. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[Stragglers Are Not Disaster: A Hybrid Federated Learning Algorithm with Delayed Gradients](https://arxiv.org/pdf/2102.06329.pdf)". In IEEE International Conference on Machine Learning and Applications (ICMLA), 2022.
-2. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "[Stragglers are not disaster: A hybrid federated learning algorithm with delayed gradients](https://arxiv.org/pdf/2207.13192.pdf)". In ACM Conference on Computer and Communications Security (CCS), 2022. (CCF A)
+2. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "[Perception-Aware Attack: Creating Adversarial Music via Reverse-Engineering Human Perception](https://arxiv.org/pdf/2207.13192.pdf)". In ACM Conference on Computer and Communications Security (CCS), 2022. (CCF A)
 3. **Zhe Qu**, Xingyu Li, Rui Duan, Yao Liu, Bo Tang and Zhuo Lu. "[Generalized Federated Learning via Sharpness Aware Minimization](https://arxiv.org/pdf/2206.02618.pdf)". In International Conference on Machine Learning (ICML), 2022. (CCF A)
 4. Tao Hou, **Zhe Qu**, Tao Wang, Zhuo Lu, and Yao Liu. "[ProTO: Proactive Topology Obfuscation Against Adversarial Network Topology Inference](https://csalab.site/getsrc/?n=papers/20hqw-info.pdf)". In IEEE Conference on Computer Communications (INFOCOM), 2020. (CCF A)
 5. Shangqing Zhao, **Zhe Qu**, Zhengping Luo, Zhuo Lu and Yao Liu. "[Comb Decoding towards Collision-Free WiFi](https://csalab.site/getsrc/?n=papers/20zql-nsdi.pdf)". In USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2020. (CCF A)
