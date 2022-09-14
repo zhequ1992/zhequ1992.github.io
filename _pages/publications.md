@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+\* Equal Contribution   \# Corresponding Author
 
 In Submission
 =====
