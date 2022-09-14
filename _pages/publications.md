@@ -4,10 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* Equal Contribution  \# Corresponding Author
+
+
 In Submission
 =====
-2. Jiahao Xue, **Zhe Qu\#**, Jie Xu, Yao Liu, and Zhuo Lu. "Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints".
+2. Jiahao Xue, **Zhe Qu\#**, Jie Xu, Yao Liu, and Zhuo Lu. "Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints". \# Corresponding Author
 1. Xingyu Li\*, **Zhe Qu\***, Bo Tang, and Zhuo Lu. "FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation". \*Equal contribution
 
 
