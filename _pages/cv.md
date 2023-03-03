@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, University of South Florida, 2018 - 2022 (expected)
+* Ph.D in Electrical Engineering, University of South Florida, 2018 - 2022
   * Advisor: Prof. Zhuo Lu 
 * M.S. in Electrical and Computer Engineering, University of Delware, 2015 - 2017
 * B.S. in Automation, Xiamen University, 2010 - 2015
@@ -19,6 +19,7 @@ Education
 
 Research experience
 ======
+* Tenure-Track Associate Professor, Central South University, 02/2023 - present
 * Research Assistant, University of South Florida, 08/2018 - 12/2022
   
 Professional Service
@@ -30,6 +31,9 @@ Professional Service
   * IEEE Transactions on Information Forensics and Security (TIFS)
   * IEEE Transactions on Mobile Computing (TMC)
   * IEEE Transactions on Green Communications and Networking (TGCN)
+  * IEEE Transactions on Wireless Communication (TWC)
+  * IEEE Transactions on Networking (TON)
+  * IEEE Transactions on Networking Science and Engineering (TNSE)
   * ACM Transactions on Privacy and Security (TOPS)
   * IEEE Communications Letters
 * External Reviewer
