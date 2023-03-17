@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Electrical Engineering, University of South Florida<br>
-Email: zhequ [at] usf.edu
+School of Computer Science and Engineering, Central South University<br>
+Email: zhe_qu [at] csu.edu.cn
