@@ -15,7 +15,7 @@ In Submission
 
 
 
-Journal Publications
+2023
 =====
 1. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation](https://arxiv.org/pdf/2112.11989.pdf)". IEEE Transactions on Cybernetics. (Early Access). (CCF A)
 2. **Zhe Qu**, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu. "[On the Convergence of Multi-Server Federated Learning with Overlapping Area](https://arxiv.org/pdf/2208.07893.pdf)". IEEE Transactions on Mobile Computing. (Early Access). (CCF A)
