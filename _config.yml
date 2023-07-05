@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhe Qu"
+title                    : "Zhe Qu, Ph.D."
 title_separator          : "-"
 name                     : &name "Zhe Qu"
 description              : &description "Tenure-Track Associate Professor at Central South University"
@@ -88,7 +88,7 @@ author:
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OvRPF-sAAAAJ&hl=en&oi=sra"
   contact          : "zhe_qu@csu.edu.cn"
-  email            :
+  email            : "zhe_qu@csu.edu.cn"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
