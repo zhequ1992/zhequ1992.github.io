@@ -16,7 +16,7 @@ In Submission
 
 2024
 =====
-1. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information]". In IEEE Symposium on Security and Privacy (S&P), 2024. (CCF A)
+1. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information](https://csalab.site/getsrc/?n=papers/23qdh-sp.pdf)". In IEEE Symposium on Security and Privacy (S&P), 2024. (CCF A)
 
 2023
 =====
