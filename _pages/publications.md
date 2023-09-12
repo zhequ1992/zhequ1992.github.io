@@ -20,7 +20,7 @@ In Submission
 
 2023
 =====
-1. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation](https://arxiv.org/pdf/2112.11989.pdf)". IEEE Transactions on Cybernetics. (Early Access). (CCF A)
+1. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation](https://arxiv.org/pdf/2112.11989.pdf)". IEEE Transactions on Cybernetics. (Early Access). (CCF B)
 2. **Zhe Qu**, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu. "[On the Convergence of Multi-Server Federated Learning with Overlapping Area](https://arxiv.org/pdf/2208.07893.pdf)". IEEE Transactions on Mobile Computing. (Early Access). (CCF A)
 3. Tao Sheng, Chengchao Shen, Yuan Liu, Yeyu Ou, **Zhe Qu**, Yixiong Liang, and Jianxin Wang. "[Modeling Global Distribution for Federated Learning with Label Distribution Skew](https://arxiv.org/abs/2212.08883.pdf)". Pattern Recognition, vol. 143, pp. 109724, Nov 2023. (CCF B)
 4. Xingyu Li\*, **Zhe Qu\***, Shangqing Zhao, Bo Tang, Zhuo Lu, and Yao Liu. "[LoMar: A Local Defense Against Poisoning Attack on Federated Learning](https://arxiv.org/pdf/2201.02873.pdf)". IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 437-450, Jan 2023. (CCF A) \*Equal contribution
