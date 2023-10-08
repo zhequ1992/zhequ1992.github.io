@@ -24,6 +24,13 @@ I am a tenure-track associate professor at the [School of Computer Science and E
 - Federated/Distributed Learning
 - Networking/Web Security
 
+### Contact
+Email: zhe_qu [at] csu.edu.cn
+
+I would kindly suggest you read the [Advice for Prospective Research Students](https://uvasrg.github.io/prospective/) by Prof. [David Evans](https://www.cs.virginia.edu/~evans/) before writing the email.
+
+
+
 # News
 - [08/2023] Our paper "**Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information**" has been accepted by IEEE S&P 2024.
 - [04/2023] Our paper "**Data-Driven Next-Generation Wireless Networking: Embracing AI for Performance and Security**" has been accepted by IEEE ICCCN 2023.
