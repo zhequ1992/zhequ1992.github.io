@@ -32,6 +32,7 @@ I would kindly suggest you read the [Advice for Prospective Research Students](h
 
 
 # News
+- [10/2023] Our paper "**Personalized federated adaptive regularization for heterogeneous medical image classification: COVID-19 CT results**" has been accepted by IEEE BIBM 2023.
 - [08/2023] Our paper "**Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information**" has been accepted by IEEE S&P 2024.
 - [04/2023] Our paper "**Data-Driven Next-Generation Wireless Networking: Embracing AI for Performance and Security**" has been accepted by IEEE ICCCN 2023.
 - [03/2023] Our paper "**FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation**" has been accepted by IEEE TCYB.
