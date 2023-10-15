@@ -15,6 +15,7 @@ In Submission
 5. Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang. "Inter-Instance Similarity Modeling for Contrastive Learning".
 6. Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang. "You Only Forward Once: Prediction and Rationalization in A Single Forward Pass".
 7. Yuan Liu, **Zhe Qu\#**, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang. "Personalized Federated Learning with Domain Generalization".
+8. Shu Wang, **Zhe Qu\#**, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang. "Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble".
 
 2024
 =====
