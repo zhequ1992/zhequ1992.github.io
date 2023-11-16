@@ -10,12 +10,11 @@ In Submission
 =====
 1. Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu. "On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension".
 2. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses".
-3. Jiahao Xue, **Zhe Qu\#**, Jie Xu, Yao Liu, and Zhuo Lu. "Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints".
-4. Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**. "Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0".
-5. Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang. "Inter-Instance Similarity Modeling for Contrastive Learning".
-6. Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang. "You Only Forward Once: Prediction and Rationalization in A Single Forward Pass".
-7. Yuan Liu, **Zhe Qu\#**, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang. "Personalized Federated Learning with Domain Generalization".
-8. Shu Wang, **Zhe Qu\#**, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang. "Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble".
+3. Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**. "Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0".
+4. Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang. "Inter-Instance Similarity Modeling for Contrastive Learning".
+5. Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang. "You Only Forward Once: Prediction and Rationalization in A Single Forward Pass".
+6. Yuan Liu, **Zhe Qu\#**, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang. "Personalized Federated Learning with Domain Generalization".
+7. Shu Wang, **Zhe Qu\#**, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang. "Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble".
 
 2024
 =====
@@ -24,13 +23,14 @@ In Submission
 
 2023
 =====
-1. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation](https://arxiv.org/pdf/2112.11989.pdf)". IEEE Transactions on Cybernetics. (Early Access). (CCF B)
+1. Jiahao Xue, **Zhe Qu\#**, Jie Xu, Yao Liu, and Zhuo Lu. "Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints". IEEE Transactions on Mobile Computing, November 2023. (CCF A)
 2. **Zhe Qu**, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu. "[On the Convergence of Multi-Server Federated Learning with Overlapping Area](https://arxiv.org/pdf/2208.07893.pdf)". IEEE Transactions on Mobile Computing, Volume: 22, Issue: 11, 01, pp. 6647 - 6662, November 2023. (CCF A)
 3. Tao Sheng, Chengchao Shen, Yuan Liu, Yeyu Ou, **Zhe Qu**, Yixiong Liang, and Jianxin Wang. "[Modeling Global Distribution for Federated Learning with Label Distribution Skew](https://arxiv.org/abs/2212.08883.pdf)". Pattern Recognition, vol. 143, pp. 109724, Nov 2023. (CCF B)
-4. Xingyu Li\*, **Zhe Qu\***, Shangqing Zhao, Bo Tang, Zhuo Lu, and Yao Liu. "[LoMar: A Local Defense Against Poisoning Attack on Federated Learning](https://arxiv.org/pdf/2201.02873.pdf)". IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 437-450, Jan 2023. (CCF A) \*Equal contribution
-5. **Zhe Qu**, Xingyu Li, Xiao Han, Rui Duan, Chengchao Shen, and Lixing Chen. "[How To Prevent the Poor Performance Clients for Personalized Federated Learning?](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_How_To_Prevent_the_Poor_Performance_Clients_for_Personalized_Federated_CVPR_2023_paper.pdf)". In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (CCF A)
-6. Jiahao Xue, **Zhe Qu**, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Data-Driven Next-Generation Wireless Networking: Embracing AI for Performance and Security](https://arxiv.org/abs/2306.06178.pdf)". In IEEE Conference on Computer Communications and Networks (ICCCN), 2023. (CCF C)
-7. Yuan Liu, **Zhe Qu\#**, Shu Wang, Tao Sheng, Xiaoqing Yu, and Jianxin Wang. "Personalized federated adaptive regularization for heterogeneous medical image classification: COVID-19 CT results". In IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023. (CCF B)
+4. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation](https://arxiv.org/pdf/2112.11989.pdf)". IEEE Transactions on Cybernetics. (Early Access). (CCF B)
+5. Xingyu Li\*, **Zhe Qu\***, Shangqing Zhao, Bo Tang, Zhuo Lu, and Yao Liu. "[LoMar: A Local Defense Against Poisoning Attack on Federated Learning](https://arxiv.org/pdf/2201.02873.pdf)". IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 437-450, Jan 2023. (CCF A) \*Equal contribution
+6. **Zhe Qu**, Xingyu Li, Xiao Han, Rui Duan, Chengchao Shen, and Lixing Chen. "[How To Prevent the Poor Performance Clients for Personalized Federated Learning?](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_How_To_Prevent_the_Poor_Performance_Clients_for_Personalized_Federated_CVPR_2023_paper.pdf)". In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (CCF A)
+7. Jiahao Xue, **Zhe Qu**, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Data-Driven Next-Generation Wireless Networking: Embracing AI for Performance and Security](https://arxiv.org/abs/2306.06178.pdf)". In IEEE Conference on Computer Communications and Networks (ICCCN), 2023. (CCF C)
+8. Yuan Liu, **Zhe Qu\#**, Shu Wang, Tao Sheng, Xiaoqing Yu, and Jianxin Wang. "Personalized federated adaptive regularization for heterogeneous medical image classification: COVID-19 CT results". In IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023. (CCF B)
 
 
 
