@@ -32,6 +32,8 @@ I would kindly suggest you read the [Advice for Prospective Research Students](h
 
 
 # News
+- [11/2023] Our paper "**Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints**" has been accepted by IEEE TMC.
+- [11/2023] Our paper "**Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models**" has been accepted by NDSS 2024.
 - [10/2023] Our paper "**Personalized federated adaptive regularization for heterogeneous medical image classification: COVID-19 CT results**" has been accepted by IEEE BIBM 2023.
 - [08/2023] Our paper "**Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information**" has been accepted by IEEE S&P 2024.
 - [04/2023] Our paper "**Data-Driven Next-Generation Wireless Networking: Embracing AI for Performance and Security**" has been accepted by IEEE ICCCN 2023.
