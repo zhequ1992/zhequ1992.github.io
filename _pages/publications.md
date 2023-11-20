@@ -19,11 +19,11 @@ In Submission
 2024
 =====
 1. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information](https://csalab.site/getsrc/?n=papers/23qdh-sp.pdf)". In IEEE Symposium on Security and Privacy (S&P), 2024. (CCF A)
-2. Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu. "[Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models]". In the Network and Distributed System Security Symposium (NDSS), 2024. (CCF A)
+2. Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu. "[Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models](https://arxiv.org/pdf/2311.07780.pdf)". In the Network and Distributed System Security Symposium (NDSS), 2024. (CCF A)
 
 2023
 =====
-1. Jiahao Xue, **Zhe Qu\#**, Jie Xu, Yao Liu, and Zhuo Lu. "Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints". IEEE Transactions on Mobile Computing, November 2023. (CCF A)
+1. Jiahao Xue, **Zhe Qu**, Jie Xu, Yao Liu, and Zhuo Lu. "[Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints](https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf)". IEEE Transactions on Mobile Computing, November 2023. (CCF A)
 2. **Zhe Qu**, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu. "[On the Convergence of Multi-Server Federated Learning with Overlapping Area](https://arxiv.org/pdf/2208.07893.pdf)". IEEE Transactions on Mobile Computing, Volume: 22, Issue: 11, 01, pp. 6647 - 6662, November 2023. (CCF A)
 3. Tao Sheng, Chengchao Shen, Yuan Liu, Yeyu Ou, **Zhe Qu**, Yixiong Liang, and Jianxin Wang. "[Modeling Global Distribution for Federated Learning with Label Distribution Skew](https://arxiv.org/abs/2212.08883.pdf)". Pattern Recognition, vol. 143, pp. 109724, Nov 2023. (CCF B)
 4. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation](https://arxiv.org/pdf/2112.11989.pdf)". IEEE Transactions on Cybernetics. (Early Access). (CCF B)
