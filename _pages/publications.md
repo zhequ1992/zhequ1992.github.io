@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* Equal Contribution   \# Corresponding Author
+\* Equal Contribution   \# Corresponding Author   
 
 In Submission
 =====
@@ -20,6 +20,8 @@ In Submission
 =====
 1. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information](https://csalab.site/getsrc/?n=papers/23qdh-sp.pdf)". In IEEE Symposium on Security and Privacy (S&P), 2024. (CCF A)
 2. Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu. "[Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models](https://arxiv.org/pdf/2311.07780.pdf)". In the Network and Distributed System Security Symposium (NDSS), 2024. (CCF A)
+3. Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, **Zhe Qu**, and Pan Zhou. "[What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception]". In the AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A)
+4. Jin Liu, Xiaokang Pan, Junwen Duan, Hongdong Li, Youqi Li, and **Zhe Qu\#**. "[Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization]". In the AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A)
 
 2023
 =====
