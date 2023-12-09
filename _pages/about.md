@@ -32,6 +32,7 @@ I would kindly suggest you read the [Advice for Prospective Research Students](h
 
 
 # News
+- [12/2023] Two papers "**Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints**" and "**Faster Stochastic Methods for Compositional MiniMax Optimization**" have been accepted by AAAI 2024. Congrats Xiaokang!
 - [11/2023] Our paper "**Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints**" has been accepted by IEEE TMC.
 - [11/2023] Our paper "**Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models**" has been accepted by NDSS 2024.
 - [10/2023] Our paper "**Personalized federated adaptive regularization for heterogeneous medical image classification: COVID-19 CT results**" has been accepted by IEEE BIBM 2023.
