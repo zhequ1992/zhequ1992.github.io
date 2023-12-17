@@ -51,4 +51,6 @@ In Submission
 10. Shangqing Zhao, **Zhe Qu**, Zhuo Lu, and Tao Wang. "[Spectrum Tomography Attacks: Inferring Spectrum Allocation Mechanisms in Multicarrier Systems](https://csalab.site/getsrc/?n=papers/19zlw-dyspan.pdf)". In IEEE Symposium on Dynamic Spectrum Access Networks (DySPAN), Poster Session, 2019.
 
 
-
+Book Chapter
+=====
+1. **Zhe Qu**, Rui Duan, Yao Liu, and Zhuo Lu. "[Federated Learning for IoT Applications, Attacks and Defense Methods](https://link.springer.com/chapter/10.1007/978-3-031-42637-7_9)". AI Embedded Assurance for Cyber Systems. Springer, 2023.
