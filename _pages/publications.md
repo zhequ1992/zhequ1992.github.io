@@ -34,7 +34,7 @@ In Submission
 4. Xingyu Li\*, **Zhe Qu\***, Shangqing Zhao, Bo Tang, Zhuo Lu, and Yao Liu. "[LoMar: A Local Defense Against Poisoning Attack on Federated Learning](https://arxiv.org/pdf/2201.02873.pdf)". IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 437-450, Jan 2023. (CCF A) \*Equal contribution
 5. **Zhe Qu**, Xingyu Li, Xiao Han, Rui Duan, Chengchao Shen, and Lixing Chen. "[How To Prevent the Poor Performance Clients for Personalized Federated Learning?](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_How_To_Prevent_the_Poor_Performance_Clients_for_Personalized_Federated_CVPR_2023_paper.pdf)". In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (CCF A)
 6. Jiahao Xue, **Zhe Qu**, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Data-Driven Next-Generation Wireless Networking: Embracing AI for Performance and Security](https://arxiv.org/abs/2306.06178.pdf)". In IEEE Conference on Computer Communications and Networks (ICCCN), 2023. (CCF C)
-7. Yuan Liu, **Zhe Qu\#**, Shu Wang, Tao Sheng, Xiaoqing Yu, and Jianxin Wang. "Personalized federated adaptive regularization for heterogeneous medical image classification: COVID-19 CT results". In IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023. (CCF B)
+7. Yuan Liu, **Zhe Qu\#**, Shu Wang, Tao Sheng, Xiaoqing Yu, and Jianxin Wang. "[Personalized federated adaptive regularization for heterogeneous medical image classification: COVID-19 CT results](https://ieeexplore.ieee.org/abstract/document/10385702)". In IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023. (CCF B)
 
 
 2022 and Earlier
