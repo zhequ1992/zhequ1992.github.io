@@ -16,6 +16,7 @@ In Submission
 6. Yuan Liu, **Zhe Qu\#**, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang. "Personalized Federated Learning with Domain Generalization".
 7. Shu Wang, **Zhe Qu\#**, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang. "Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble".
 8. Lixing Chen, Zhongqi Miao, Yang Bai, Pan Zhou, **Zhe Qu**, Jianhua Li, and Cailian Chen. "Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning".
+9. Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang. "You Only Forward Once: Prediction and Rationalization in A Single Forward Pass".
 
 2024
 =====
