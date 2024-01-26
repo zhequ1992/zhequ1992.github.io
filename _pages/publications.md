@@ -19,11 +19,11 @@ In Submission
 
 2024
 =====
-1. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information](https://csalab.site/getsrc/?n=papers/23qdh-sp.pdf)". In IEEE Symposium on Security and Privacy (S&P), 2024. (CCF A)
-2. Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, and **Zhe Qu**. "[Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale]". In ACM the Web Conference (WWW), 2024. (CCF A) 
-3. Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu. "[Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models](https://arxiv.org/pdf/2311.07780.pdf)". In the Network and Distributed System Security Symposium (NDSS), 2024. (CCF A)
-4. Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, **Zhe Qu**, and Pan Zhou. "[What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception]". In the AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A)
-5. Jin Liu, Xiaokang Pan\#, Junwen Duan, Hongdong Li, Youqi Li, and **Zhe Qu\***. "[Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization](https://arxiv.org/pdf/2308.09604.pdf)". In the AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A)
+1. **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu. "[Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information](https://csalab.site/getsrc/?n=papers/23qdh-sp.pdf)". In IEEE Symposium on Security and Privacy (S&P), May 2024. (CCF A)
+2. Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, and **Zhe Qu**. "[Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale]". In ACM the Web Conference (WWW), May 2024. (CCF A) 
+3. Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu. "[Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models](https://arxiv.org/pdf/2311.07780.pdf)". In the Network and Distributed System Security Symposium (NDSS), February 2024. (CCF A)
+4. Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, **Zhe Qu**, and Pan Zhou. "[What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception]". In the AAAI Conference on Artificial Intelligence (AAAI), February 2024. (CCF A)
+5. Jin Liu, Xiaokang Pan\#, Junwen Duan, Hongdong Li, Youqi Li, and **Zhe Qu\***. "[Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization](https://arxiv.org/pdf/2308.09604.pdf)". In the AAAI Conference on Artificial Intelligence (AAAI), February 2024. (CCF A)
 6. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation](https://arxiv.org/pdf/2112.11989.pdf)". IEEE Transactions on Cybernetics, Vol. 54, no. 1, pp. 401-414, January 2024. (CCF B)
 
 2023 and Earlier
