@@ -8,9 +8,10 @@ author_profile: true
 
 In Submission
 =====
-1. <span style="font-size: 12px;"><ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,</span>\
-   <span style="font-size: 12px;"><ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu.</span>
-3. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses".
+<span style="font-size: 15px;">1. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,</span>\
+   <span style="font-size: 15px;"><ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu.</span>
+<span style="font-size: 15px;">2. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,</span>\
+<span style="font-size: 15px;"><ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu.
 4. Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**. "Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0".
 5. Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang. "Inter-Instance Similarity Modeling for Contrastive Learning".
 6. Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang. "You Only Forward Once: Prediction and Rationalization in A Single Forward Pass".
