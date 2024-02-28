@@ -13,7 +13,7 @@ In Submission
 2. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
 <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu.\
 3. <ins>Title:</ins> Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0,\
-<ins>Authors:</ins> Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**.\
+<ins>Authors:</ins> Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**.\</span>
 5. Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang. "Inter-Instance Similarity Modeling for Contrastive Learning".
 6. Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang. "You Only Forward Once: Prediction and Rationalization in A Single Forward Pass".
 7. Yuan Liu\#, **Zhe Qu\***, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang. "Personalized Federated Learning with Domain Generalization".
