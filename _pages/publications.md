@@ -8,7 +8,7 @@ author_profile: true
 
 In Submission
 =====
-<span style="font-size: 15px;">1. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,\
+<span style="font-size: 15px;">1. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,<br>
    <ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu.\
 2. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
 <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu.\
