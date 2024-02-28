@@ -8,14 +8,15 @@ author_profile: true
 
 In Submission
 =====
-1. Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu. "On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension".
-2. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses".
-3. Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**. "Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0".
-4. Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang. "Inter-Instance Similarity Modeling for Contrastive Learning".
-5. Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang. "You Only Forward Once: Prediction and Rationalization in A Single Forward Pass".
-6. Yuan Liu\#, **Zhe Qu\***, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang. "Personalized Federated Learning with Domain Generalization".
-7. Shu Wang\#, **Zhe Qu\***, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang. "Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble".
-8. Lixing Chen, Zhongqi Miao, Yang Bai, Pan Zhou, **Zhe Qu**, Jianhua Li, and Cailian Chen. "Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning".
+1. On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,
+   Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu.
+3. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses".
+4. Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**. "Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0".
+5. Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang. "Inter-Instance Similarity Modeling for Contrastive Learning".
+6. Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang. "You Only Forward Once: Prediction and Rationalization in A Single Forward Pass".
+7. Yuan Liu\#, **Zhe Qu\***, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang. "Personalized Federated Learning with Domain Generalization".
+8. Shu Wang\#, **Zhe Qu\***, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang. "Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble".
+9. Lixing Chen, Zhongqi Miao, Yang Bai, Pan Zhou, **Zhe Qu**, Jianhua Li, and Cailian Chen. "Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning".
 
 2024
 =====
