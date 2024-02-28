@@ -29,14 +29,22 @@ In Submission
 =====
 1. <ins>Title:</ins> Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information,\
    <ins>Authors:</ins> **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu,\
-   <ins>Proc:</ins> IEEE Symposium on Security and Privacy **(S&P)**, May 2024, (CCF A). [PDF(https://csalab.site/getsrc/?n=papers/23qdh-sp.pdf)]
+   <ins>Proc:</ins> IEEE Symposium on Security and Privacy **(S&P)**, May 2024, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/23qdh-sp.pdf)
 2. <ins>Title:</ins> Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale,\
    <ins>Authors:</ins> Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, and **Zhe Qu**,\
-   <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF()] 
-4. Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu. "[Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models](https://arxiv.org/pdf/2311.07780.pdf)". In the Network and Distributed System Security Symposium (NDSS), February 2024. (CCF A)
-5. Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, **Zhe Qu**, and Pan Zhou. "[What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception]". In the AAAI Conference on Artificial Intelligence (AAAI), February 2024. (CCF A)
-6. Jin Liu, Xiaokang Pan\#, Junwen Duan, Hongdong Li, Youqi Li, and **Zhe Qu\***. "[Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization](https://arxiv.org/pdf/2308.09604.pdf)". In the AAAI Conference on Artificial Intelligence (AAAI), February 2024. (CCF A)
-7. Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu. "[FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation](https://arxiv.org/pdf/2112.11989.pdf)". IEEE Transactions on Cybernetics, Vol. 54, no. 1, pp. 401-414, January 2024. (CCF B)
+   <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF]() 
+3. <ins>Title:</ins> Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models,\
+   <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu,\
+   <ins>Proc:</ins> Network and Distributed System Security Symposium **(NDSS)**, February 2024, (CCF A). [PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-545-paper.pdf)
+4. <ins>Title:</ins> What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception,\
+   <ins>Authors:</ins> Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, **Zhe Qu**, and Pan Zhou,\
+   <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, February 2024, (CCF A). [PDF]()
+5. <ins>Title:</ins> Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization,\
+   <ins>Authors:</ins> Jin Liu, Xiaokang Pan\#, Junwen Duan, Hongdong Li, Youqi Li, and **Zhe Qu\***,\
+   <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, February 2024, (CCF A). [PDF](https://arxiv.org/pdf/2308.09604.pdf)
+6. <ins>Title:</ins> FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation,\
+   <ins>Authors:</ins> Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu,\
+   <ins>Proc:</ins> IEEE Transactions on Cybernetics **(TCYB)**, Vol. 54, no. 1, pp. 401-414, January 2024, (CCF B). [PDF](https://arxiv.org/pdf/2112.11989.pdf).
 
 2023 and Earlier
 ====
