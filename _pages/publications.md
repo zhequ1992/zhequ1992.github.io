@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* Corresponding Author \# My Supervised Student      
+\*Corresponding Author \#My Supervised Student      
 
 In Submission
 =====
-1. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,
+1. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,\
    <ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu.
 3. Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu. "Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses".
 4. Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**. "Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0".
