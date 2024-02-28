@@ -20,8 +20,10 @@ In Submission
    <ins>Authors:</ins> Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang.
 6. <ins>Title:</ins> Personalized Federated Learning with Domain Generalization,\
    <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang.
-8. Shu Wang\#, **Zhe Qu\***, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang. "Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble".
-9. Lixing Chen, Zhongqi Miao, Yang Bai, Pan Zhou, **Zhe Qu**, Jianhua Li, and Cailian Chen. "Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning".
+7. <ins>Title:</ins> Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble,\
+   <ins>Authors:</ins> Shu Wang\#, **Zhe Qu\***, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang.
+8. <ins>Title:</ins> Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning,\
+   <ins>Authors:</ins> Lixing Chen, Zhongqi Miao, Yang Bai, Pan Zhou, **Zhe Qu**, Jianhua Li, and Cailian Chen.
 
 2024
 =====
