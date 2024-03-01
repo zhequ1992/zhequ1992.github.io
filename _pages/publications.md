@@ -35,16 +35,16 @@ In Submission
    <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF]() 
 3. <ins>Title:</ins> Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models,\
    <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu,\
-   <ins>Proc:</ins> Network and Distributed System Security Symposium **(NDSS)**, February 2024, (CCF A). [PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-545-paper.pdf)
+   <ins>Proc:</ins> Network and Distributed System Security Symposium **(NDSS)**, Feb 2024, (CCF A). [PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-545-paper.pdf)
 4. <ins>Title:</ins> What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception,\
    <ins>Authors:</ins> Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, **Zhe Qu**, and Pan Zhou,\
-   <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, February 2024, (CCF A). [PDF]()
+   <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb 2024, (CCF A). [PDF]()
 5. <ins>Title:</ins> Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization,\
    <ins>Authors:</ins> Jin Liu, Xiaokang Pan\#, Junwen Duan, Hongdong Li, Youqi Li, and **Zhe Qu\***,\
-   <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, February 2024, (CCF A). [PDF](https://arxiv.org/pdf/2308.09604.pdf)
+   <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb 2024, (CCF A). [PDF](https://arxiv.org/pdf/2308.09604.pdf)
 6. <ins>Title:</ins> FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation,\
    <ins>Authors:</ins> Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu,\
-   <ins>Proc:</ins> IEEE Transactions on Cybernetics **(TCYB)**, Vol. 54, no. 1, pp. 401-414, January 2024, (CCF B). [PDF](https://arxiv.org/pdf/2112.11989.pdf)
+   <ins>Proc:</ins> IEEE Transactions on Cybernetics **(TCYB)**, Vol. 54, no. 1, pp. 401-414, Jan 2024, (CCF B). [PDF](https://arxiv.org/pdf/2112.11989.pdf)
 
 2023 and Earlier
 ====
@@ -56,7 +56,7 @@ In Submission
    <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, November 2023, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf)
 4. <ins>Title:</ins> On the Convergence of Multi-Server Federated Learning with Overlapping Area,\
    <ins>Authors:</ins> **Zhe Qu**, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu,\
-   <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Volume: 22, Issue: 11, 01, pp. 6647 - 6662, November 2023, (CCF A). [PDF](https://arxiv.org/pdf/2208.07893.pdf)
+   <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 22, Issue: 11, 01, pp. 6647-6662, Nov 2023, (CCF A). [PDF](https://arxiv.org/pdf/2208.07893.pdf)
 5. <ins>Title:</ins> Modeling Global Distribution for Federated Learning with Label Distribution Skew,\
    <ins>Authors:</ins> Tao Sheng, Chengchao Shen, Yuan Liu\#, Yeyu Ou, **Zhe Qu**, Yixiong Liang, and Jianxin Wang,\
    <ins>Proc:</ins> Pattern Recognition **(PR)**, vol. 143, pp. 109724, Nov 2023, (CCF B). [PDF](https://arxiv.org/abs/2212.08883.pdf)
