@@ -71,13 +71,13 @@ In Submission
    <ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, vol. 20, no. 1, pp. 437-450, Jan 2023, (CCF A). [PDF](https://arxiv.org/pdf/2201.02873.pdf)
 9. <ins>Title:</ins> Context-Aware Online Client Selection for Hierarchical Federated Learning,\
    <ins>Authors:</ins> **Zhe Qu**, Rui Duan, Lixing Chen, Jie Xu, Zhuo Lu, and Yao Liu,\
-   <ins>Proc:</ins> IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Volume: 33, Issue: 12, 01, pp. 4353 - 4367, December 2022, (CCF A). [PDF](https://arxiv.org/pdf/2112.00925.pdf)
+   <ins>Proc:</ins> IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Vol: 33, Issue: 12, 01, pp. 4353-4367, Dec 2022, (CCF A). [PDF](https://arxiv.org/pdf/2112.00925.pdf)
 10. <ins>Title:</ins> Stragglers Are Not Disaster: A Hybrid Federated Learning Algorithm with Delayed Gradients,\
    <ins>Authors:</ins> Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu,\
-   <ins>Proc:</ins> IEEE International Conference on Machine Learning and Applications **(ICMLA)**, December 2022. [PDF](https://arxiv.org/pdf/2102.06329.pdf)
+   <ins>Proc:</ins> IEEE International Conference on Machine Learning and Applications **(ICMLA)**, Dec 2022. [PDF](https://arxiv.org/pdf/2102.06329.pdf)
 11. <ins>Title:</ins> Perception-Aware Attack: Creating Adversarial Music via Reverse-Engineering Human Perception,\
    <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu,\
-   <ins>Proc:</ins> ACM Conference on Computer and Communications Security **(CCS)**, November 2022, (CCF A). [PDF](https://arxiv.org/pdf/2207.13192.pdf)
+   <ins>Proc:</ins> ACM Conference on Computer and Communications Security **(CCS)**, Nov 2022, (CCF A). [PDF](https://arxiv.org/pdf/2207.13192.pdf)
 12. <ins>Title:</ins> Generalized Federated Learning via Sharpness Aware Minimization,\
    <ins>Authors:</ins> **Zhe Qu**, Xingyu Li, Rui Duan, Yao Liu, Bo Tang, and Zhuo Lu,\
    <ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2022, (CCF A). [PDF](https://arxiv.org/pdf/2206.02618.pdf)
@@ -89,12 +89,20 @@ In Submission
    <ins>Proc:</ins> IEEE Conference on Computer Communications **(INFOCOM)**, July 2020, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/20hqw-info.pdf)
 15. <ins>Title:</ins> Comb Decoding towards Collision-Free WiFi,\
    <ins>Authors:</ins> Shangqing Zhao, **Zhe Qu**, Zhengping Luo, Zhuo Lu, and Yao Liu,\
-    <ins>Proc:</ins> USENIX Symposium on Networked Systems Design and Implementation **(NSDI)**, February 2020, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/20zql-nsdi.pdf)
-16. Zhengping Luo, **Zhe Qu**, Tung Nguyen, Hui Zeng, and Zhuo Lu. "[Security of HPC systems: From a log-analyzing perspective](https://csalab.site/getsrc/?n=papers/19lqn-etss.pdf)". EAI Endorsed Transactions on Security and Safety, vol. 6, no. 21, e5, 2019.
-19. Shangqing Zhao, **Zhe Qu**, and Zhuo Lu. "[Vulnerability Analysis, Attack Strategies and Countermeasures Design in Network Tomography](https://csalab.site/getsrc/?n=papers/19zlw-acsac.pdf)". In Annual Computer Security Applications Conference (ACSAC), Poster Session, 2019.
-20. Shangqing Zhao, **Zhe Qu**, Zhuo Lu, and Tao Wang. "[Spectrum Tomography Attacks: Inferring Spectrum Allocation Mechanisms in Multicarrier Systems](https://csalab.site/getsrc/?n=papers/19zlw-dyspan.pdf)". In IEEE Symposium on Dynamic Spectrum Access Networks (DySPAN), Poster Session, 2019.
+    <ins>Proc:</ins> USENIX Symposium on Networked Systems Design and Implementation **(NSDI)**, Feb 2020, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/20zql-nsdi.pdf)
+16. <ins>Title:</ins> Security of HPC systems: From a log-analyzing perspective,\
+   <ins>Authors:</ins> Zhengping Luo, **Zhe Qu**, Tung Nguyen, Hui Zeng, and Zhuo Lu,\
+    <ins>Proc:</ins> EAI Endorsed Transactions on Security and Safety, vol. 6, no. 21, e5, 2019. [PDF](https://csalab.site/getsrc/?n=papers/19lqn-etss.pdf)
 
 
 Book Chapter and Poster
 =====
-1. **Zhe Qu**, Rui Duan, Yao Liu, and Zhuo Lu. "[Federated Learning for IoT Applications, Attacks and Defense Methods](https://link.springer.com/chapter/10.1007/978-3-031-42637-7_9)". AI Embedded Assurance for Cyber Systems. Springer, 2023.
+1. <ins>Title:</ins> Federated Learning for IoT Applications, Attacks and Defense Methods,\
+   <ins>Authors:</ins> **Zhe Qu**, Rui Duan, Yao Liu, and Zhuo Lu,\
+   <ins>Proc:</ins> AI Embedded Assurance for Cyber Systems, Springer, 2023. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-42637-7_9)
+2. <ins>Title:</ins> Vulnerability Analysis, Attack Strategies and Countermeasures Design in Network Tomography,\
+   <ins>Authors:</ins> Shangqing Zhao, **Zhe Qu**, and Zhuo Lu,\
+   <ins>Proc:</ins> Annual Computer Security Applications Conference **(ACSAC)**, Poster Session, 2019. [PDF](https://csalab.site/getsrc/?n=papers/19lqn-etss.pdf)
+3. <ins>Title:</ins> Spectrum Tomography Attacks: Inferring Spectrum Allocation Mechanisms in Multicarrier Systems,\
+   <ins>Authors:</ins> Shangqing Zhao, **Zhe Qu**, Zhuo Lu, and Tao Wang,\
+   <ins>Proc:</ins> IEEE Symposium on Dynamic Spectrum Access Networks **(DySPAN)**, Poster Session, 2019. [PDF](https://csalab.site/getsrc/?n=papers/19zlw-dyspan.pdf)
