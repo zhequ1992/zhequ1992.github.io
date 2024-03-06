@@ -32,7 +32,7 @@ In Submission
    <ins>Proc:</ins> IEEE Symposium on Security and Privacy **(S&P)**, May 2024, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/23qdh-sp.pdf)
 2. <ins>Title:</ins> Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale,\
    <ins>Authors:</ins> Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, and **Zhe Qu**,\
-   <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF]()
+   <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF](https://www.mdpi.com/2227-9059/12/3/580)
 3. <ins>Title:</ins> Segmenting Ischemic Penumbra and Infarct Core Simultaneously on Non-Contrast CT of Patients with Acute Ischemic Stroke Using A Novel Convolutional Neural Network,\
    <ins>Authors:</ins> Hulin Kuang, Xianzhen Tan, Jie Wang, **Zhe Qu**, Yuxin Cai, Qiong Chen, Beom Joon Kim, and Wu Qiu,\
    <ins>Proc:</ins> Biomedicines, Mar 2024. [PDF]()
