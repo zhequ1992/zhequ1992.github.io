@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: "Team"
 permalink: /contact/
 author_profile: true
 ---
