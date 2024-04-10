@@ -35,7 +35,7 @@ In Submission
    <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). [PDF]()
 3. <ins>Title:</ins> Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information,\
    <ins>Authors:</ins> **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu,\
-   <ins>Proc:</ins> IEEE Symposium on Security and Privacy **(S&P)**, May 2024, (CCF A). [PDF](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2024/3130/00/313000a042.pdf?Expires=1712293569&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjQvMzEzMC8wMC8zMTMwMDBhMDQyLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMjI5MzU2OX19fV19&Signature=Ufid-J1oMdhmfsP4U7aJAGqJdzZZauFLKSd1GZZJTj5WMk-yx-v8NG30h2XE2jJsK9gTaNhskV0pY64tU1~qypvkPwNSekePdukWchEGpMiHeiV-HiFc6gTVd-J5M-j63dGQoB7uKa5IZyGdXTKPRIbfvQoqNHghJmIqNplnuOrPxxnk-LS8nFaANDZoVE5r6fCNkXmlVLYt6wsQ02sUmlt7kZQZULhXUtFp1nvOlpqBY~9ewL0IVS7VpxUU94ns-PxajY4Fo9adfX2b4DsYOc~NQCIXAAtfFcR7U4wGX1USK6mcvd1TXjXHJOjA3bugVtPO1gTp6IiLsrN3hxt7GQ__&Key-Pair-Id=K12PMWTCQBDMDT)
+   <ins>Proc:</ins> IEEE Symposium on Security and Privacy **(S&P)**, May 2024, (CCF A). [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a042/1RjEagFjTDW)
 4. <ins>Title:</ins> Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale,\
    <ins>Authors:</ins> Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, and **Zhe Qu**,\
    <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF]()
