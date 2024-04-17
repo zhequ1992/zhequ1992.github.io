@@ -9,6 +9,8 @@ author_profile: true
 - Yuan Liu, Fall 2019, Co-Supervised with Prof. Jianxin Wang
 
 ### Master Student
+- Ying Yu, Fall 2024, Co-Supervised with Prof. Jin Liu
+- Xiangyu Gao, Fall 2024
 - Yan Liu, Fall 2024
 - Chenyu Sun, Fall 2024
 - Shuai Li, Fall 2024
