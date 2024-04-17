@@ -8,21 +8,19 @@ author_profile: true
 
 In Submission
 =====
-1. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,\
-   <ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu.
-2. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
+1. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
 <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu.
-3. <ins>Title:</ins> Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0,\
+2. <ins>Title:</ins> Learning-based DApp Task Scheduling for Elastic Hybrid Computing in Edge Web 3.0,\
 <ins>Authors:</ins> Xichun Cai, Lixing Chen, Yang Bai, Jun Wu, Youqi Li, and **Zhe Qu**.
-4. <ins>Title:</ins> Inter-Instance Similarity Modeling for Contrastive Learning,\
+3. <ins>Title:</ins> Inter-Instance Similarity Modeling for Contrastive Learning,\
  <ins>Authors:</ins> Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang.
-5. <ins>Title:</ins> You Only Forward Once: Prediction and Rationalization in A Single Forward Pass,\
+4. <ins>Title:</ins> You Only Forward Once: Prediction and Rationalization in A Single Forward Pass,\
    <ins>Authors:</ins> Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang.
-6. <ins>Title:</ins> Personalized Federated Learning with Domain Generalization,\
+5. <ins>Title:</ins> Personalized Federated Learning with Domain Generalization,\
    <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang.
-7. <ins>Title:</ins> Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble,\
+6. <ins>Title:</ins> Federated Medical Image Segmentation with Attention-based Structure Knowledge Ensemble,\
    <ins>Authors:</ins> Shu Wang\#, **Zhe Qu\***, Yuan Liu, Chengchao Shen, Rixiao Ding, and Jianxin Wang.
-8. <ins>Title:</ins> Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning,\
+7. <ins>Title:</ins> Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning,\
    <ins>Authors:</ins> Lixing Chen, Zhongqi Miao, Yang Bai, Pan Zhou, **Zhe Qu**, Jianhua Li, and Cailian Chen.
 
 2024
@@ -39,19 +37,22 @@ In Submission
 4. <ins>Title:</ins> Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale,\
    <ins>Authors:</ins> Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, and **Zhe Qu**,\
    <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF]()
-5. <ins>Title:</ins> Segmenting Ischemic Penumbra and Infarct Core Simultaneously on Non-Contrast CT of Patients with Acute Ischemic Stroke Using A Novel Convolutional Neural Network,\
+5. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,\
+   <ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu,\
+   <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, April 2024, (CCF A). [PDF]()
+6. <ins>Title:</ins> Segmenting Ischemic Penumbra and Infarct Core Simultaneously on Non-Contrast CT of Patients with Acute Ischemic Stroke Using A Novel Convolutional Neural Network,\
    <ins>Authors:</ins> Hulin Kuang, Xianzhen Tan, Jie Wang, **Zhe Qu**, Yuxin Cai, Qiong Chen, Beom Joon Kim, and Wu Qiu,\
    <ins>Proc:</ins> Biomedicines, Mar 2024. [PDF](https://www.mdpi.com/2227-9059/12/3/580)
-6. <ins>Title:</ins> Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models,\
+7. <ins>Title:</ins> Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models,\
    <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu,\
    <ins>Proc:</ins> Network and Distributed System Security Symposium **(NDSS)**, Feb 2024, (CCF A). [PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-545-paper.pdf)
-7. <ins>Title:</ins> What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception,\
+8. <ins>Title:</ins> What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception,\
    <ins>Authors:</ins> Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, **Zhe Qu**, and Pan Zhou,\
    <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb 2024, (CCF A). [PDF](https://arxiv.org/pdf/2403.10068.pdf)
-8. <ins>Title:</ins> Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization,\
+9. <ins>Title:</ins> Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization,\
    <ins>Authors:</ins> Jin Liu, Xiaokang Pan\#, Junwen Duan, Hongdong Li, Youqi Li, and **Zhe Qu\***,\
    <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb 2024, (CCF A). [PDF](https://arxiv.org/pdf/2308.09604.pdf)
-9. <ins>Title:</ins> FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation,\
+10. <ins>Title:</ins> FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation,\
    <ins>Authors:</ins> Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu,\
    <ins>Proc:</ins> IEEE Transactions on Cybernetics **(TCYB)**, Vol. 54, no. 1, pp. 401-414, Jan 2024, (CCF B). [PDF](https://arxiv.org/pdf/2112.11989.pdf)
 
