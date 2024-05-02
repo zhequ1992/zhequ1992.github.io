@@ -32,6 +32,7 @@ I would kindly suggest you read the [Advice for Prospective Research Students](h
 
 
 # News
+- [05/2024] Our paper "**Stability and Generalization for Stochastic Recursive Momentum-based Algorithms for (Strongly-)Convex One to $K$-Level Stochastic Optimizations**" has been accepted by ICML. Congrats Xiaokang!
 - [03/2024] Two papers "**FedMMR: Multi-Modal Federated Learning via Missing Modality Reconstruction**" and "**FedGCA: Global Consistent Augmentation based Single-Source Federated Domain Generalization**" have been accepted by ICME. Congrats Shu and Yuan!
 - [01/2024] Our paper "**Meta Parallel Graph Neural Network for IoT Intrusion Detection**" has been accepted by WWW.
 - [12/2023] Two papers "**Contrastive Mutual Information Maximization for Multi-Agent Perception**" and "**Faster Stochastic Methods for Compositional MiniMax Optimization**" have been accepted by AAAI 2024. Congrats Xiaokang!
