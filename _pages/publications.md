@@ -65,7 +65,7 @@ In Submission
    <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, Shu Wang\#, Tao Sheng, Xiaoqing Yu, and Jianxin Wang,\
    <ins>Proc:</ins> IEEE International Conference on Bioinformatics and Biomedicine **(BIBM)**, December 2023, (CCF B). [PDF](https://ieeexplore.ieee.org/abstract/document/10385702)
 2. <ins>Title:</ins> Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints,\
-   <ins>Authors:</ins> Jiahao Xue, **Zhe Qu**, Jie Xu, Yao Liu, and Zhuo Lu,\
+   <ins>Authors:</ins> Jiahao Xue, **Zhe Qu\***, Jie Xu, Yao Liu, and Zhuo Lu,\
    <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, November 2023, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf)
 4. <ins>Title:</ins> On the Convergence of Multi-Server Federated Learning with Overlapping Area,\
    <ins>Authors:</ins> **Zhe Qu**, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu,\
