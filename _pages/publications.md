@@ -42,10 +42,10 @@ In Submission
    <ins>Proc:</ins> IEEE Symposium on Security and Privacy **(S&P)**, May 2024, (CCF A). [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a042/1RjEagFjTDW)
 6. <ins>Title:</ins> Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale,\
    <ins>Authors:</ins> Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, and **Zhe Qu**,\
-   <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF]()
+   <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF](https://dl.acm.org/doi/10.1145/3589334.3645457)
 7. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,\
    <ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu,\
-   <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, April 2024, (CCF A). [PDF]()
+   <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, April 2024, (CCF A). [PDF](https://ieeexplore.ieee.org/abstract/document/10518069?casa_token=Nbo0poI6bbcAAAAA:lC_SwHhnsivLb3a5FEnPiRjCWfOBksFuYn9MJv7E7SyM6AsCiBwmmoxBE_OtoziLOOvOH_2N)
 8. <ins>Title:</ins> Segmenting Ischemic Penumbra and Infarct Core Simultaneously on Non-Contrast CT of Patients with Acute Ischemic Stroke Using A Novel Convolutional Neural Network,\
    <ins>Authors:</ins> Hulin Kuang, Xianzhen Tan, Jie Wang, **Zhe Qu**, Yuxin Cai, Qiong Chen, Beom Joon Kim, and Wu Qiu,\
    <ins>Proc:</ins> Biomedicines, Mar 2024. [PDF](https://www.mdpi.com/2227-9059/12/3/580)
