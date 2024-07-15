@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 \*Corresponding Author   \#My Supervised Student      
 
 In Submission
@@ -33,7 +39,7 @@ In Submission
    <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). [PDF]()
 3. <ins>Title:</ins> FedMMR: Multi-Modal Federated Learning via Missing Modality Reconstruction,\
    <ins>Authors:</ins> Shu Wang\#, **Zhe Qu\***, Yuan Liu\#, Shichao Kan, Yixiong Liang, and Jianxin Wang,\
-   <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). [PDF]()
+   <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). <r>Best Paper Candidate.<\r> [PDF]()
 4. <ins>Title:</ins> Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints,\
    <ins>Authors:</ins> Jiahao Xue, **Zhe Qu\***, Jie Xu, Yao Liu, and Zhuo Lu,\
    <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 23, Issue: 6, pp. 7470-7482, June 2024, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf)
