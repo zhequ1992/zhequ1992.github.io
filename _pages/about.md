@@ -18,11 +18,12 @@ Welcome to Zhe Qu's homepage!
 # About Me
 I am a tenure-track associate professor at the [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). I received a B.S. from the Department of Automation at [Xiamen University](https://www.xmu.edu.cn/) in 2015, an M.S. from the Department of Electrical and Computer Engineering at [University of Delaware](https://www.udel.edu/) in 2017, and Ph.D. from the Department of Electrical Engineering at [University of South Florida](https://www.usf.edu/) under the supervision of [Prof. Zhuo Lu](https://csalab.site).
 
-<r>Opening: I am looking for self-motivated Master students to join my group. Please send me a short email with your C.V. and anything you believe relevant!</r>
+<r>Opening: I am seeking self-motivated Master students to join my group. Please send me a short email with your C.V. and anything you believe relevant!</r>
 
 ### Research Interests:
-- Federated/Distributed Learning
 - Networking/Web Security
+- Federated/Distributed Learning
+- Machine Learning Theory
 
 ### Contact
 Email: zhe_qu [at] csu.edu.cn
@@ -32,9 +33,9 @@ I would kindly suggest you read the [Advice for Prospective Research Students](h
 
 
 # News
-- [05/2024] Our paper "**Stability and Generalization for Stochastic Recursive Momentum-based Algorithms for (Strongly-)Convex One to $K$-Level Stochastic Optimizations**" has been accepted by ICML. Congrats Xiaokang!
-- [03/2024] Two papers "**FedMMR: Multi-Modal Federated Learning via Missing Modality Reconstruction**" and "**FedGCA: Global Consistent Augmentation based Single-Source Federated Domain Generalization**" have been accepted by ICME. Congrats Shu and Yuan!
-- [01/2024] Our paper "**Meta Parallel Graph Neural Network for IoT Intrusion Detection**" has been accepted by WWW.
+- [05/2024] Our paper "**Stability and Generalization for Stochastic Recursive Momentum-based Algorithms for (Strongly-)Convex One to $K$-Level Stochastic Optimizations**" has been accepted by ICML 2024. Congrats Xiaokang!
+- [03/2024] Two papers "**FedMMR: Multi-Modal Federated Learning via Missing Modality Reconstruction**" and "**FedGCA: Global Consistent Augmentation based Single-Source Federated Domain Generalization**" have been accepted by ICME 2024. Congrats Shu and Yuan!
+- [01/2024] Our paper "**Meta Parallel Graph Neural Network for IoT Intrusion Detection**" has been accepted by WWW 2024.
 - [12/2023] Two papers "**Contrastive Mutual Information Maximization for Multi-Agent Perception**" and "**Faster Stochastic Methods for Compositional MiniMax Optimization**" have been accepted by AAAI 2024. Congrats Xiaokang!
 - [11/2023] Our paper "**Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints**" has been accepted by IEEE TMC.
 - [11/2023] Our paper "**Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models**" has been accepted by NDSS 2024.
