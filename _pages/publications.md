@@ -26,13 +26,13 @@ In Submission
 2024
 =====
 1. <ins>Title:</ins> Aligning Multimodal Biomedical Images and Language via One Large Vision-Language Model,\
-   <ins>Authors:</ins> Haojie Zhang, Min Zeng, Jinfeng Ding, Yixiong Liang, Ruiqing Zheng, **Zhe Qu\***, Min Li, and Shichao Kan,\
+   <ins>Authors:</ins> Haojie Zhang, Min Zeng, Jinfeng Ding, Yixiong Liang, Ruiqing Zheng, **Zhe Qu**, Min Li, and Shichao Kan,\
    <ins>Proc:</ins> IEEE International Conference on Bioinformatics and Biomedicine **(BIBM)**, December 2024, (CCF B). [PDF]()
 2. <ins>Title:</ins> Global Contrastive Learning with High-Quality Data in Large Vision-Language Models for Pathological Question Answering,\
-   <ins>Authors:</ins> Hulin Kuang, Suoni Liu, Haojie Zhang, **Zhe Qu\***, and Shichao Kan,\
+   <ins>Authors:</ins> Hulin Kuang, Suoni Liu, Haojie Zhang, **Zhe Qu**, and Shichao Kan,\
    <ins>Proc:</ins> IEEE International Conference on Bioinformatics and Biomedicine **(BIBM)**, December 2024, (CCF B). [PDF]()
 3. <ins>Title:</ins> MARE: Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction,\
-   <ins>Authors:</ins> Han Jiang, Junwen Duan, **Zhe Qu\***, and Jianxin Wang,\
+   <ins>Authors:</ins> Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang,\
    <ins>Proc:</ins> The Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, Nov. 2024, (CCF B). [PDF]()
 4. <ins>Title:</ins> Stability and Generalization for Stochastic Recursive Momentum-based Algorithms for (Strongly)-Convex One to $K$-Level Stochastic Optimizations,\
    <ins>Authors:</ins> Xiaokang Pan\#, Xingyu Li\*, Jin Liu, Tao Sun, Kai Sun, Lixing Chen, and **Zhe Qu\***,\
