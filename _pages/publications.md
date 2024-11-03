@@ -18,10 +18,9 @@ In Submission
 <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu.
 2. <ins>Title:</ins> Inter-Instance Similarity Modeling for Contrastive Learning,\
  <ins>Authors:</ins> Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang.
-3. <ins>Title:</ins> Personalized Federated Learning with Domain Generalization,\
-   <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang.
-4. <ins>Title:</ins> Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning,\
+3. <ins>Title:</ins> Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning,\
    <ins>Authors:</ins> Lixing Chen, Zhongqi Miao, Yang Bai, Pan Zhou, **Zhe Qu**, Jianhua Li, and Cailian Chen.
+
 
 2024
 =====
@@ -31,43 +30,46 @@ In Submission
 2. <ins>Title:</ins> Global Contrastive Learning with High-Quality Data in Large Vision-Language Models for Pathological Question Answering,\
    <ins>Authors:</ins> Hulin Kuang, Suoni Liu, Haojie Zhang, **Zhe Qu**, and Shichao Kan,\
    <ins>Proc:</ins> IEEE International Conference on Bioinformatics and Biomedicine **(BIBM)**, December 2024, (CCF B). [PDF]()
-3. <ins>Title:</ins> MARE: Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction,\
+3. <ins>Title:</ins> Personalized Federated Learning with Domain Generalization,\
+   <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, Shu Wang, Chengchao Shen, Yixiong Liang, and Jianxin Wang,\
+   <ins>Proc:</ins> Expert Systems with Applications, November 2024, (JCR Q1). [PDF]()
+4. <ins>Title:</ins> MARE: Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction,\
    <ins>Authors:</ins> Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang,\
    <ins>Proc:</ins> The Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, Nov. 2024, (CCF B). [PDF]()
-4. <ins>Title:</ins> Stability and Generalization for Stochastic Recursive Momentum-based Algorithms for (Strongly)-Convex One to $K$-Level Stochastic Optimizations,\
+5. <ins>Title:</ins> Stability and Generalization for Stochastic Recursive Momentum-based Algorithms for (Strongly)-Convex One to $K$-Level Stochastic Optimizations,\
    <ins>Authors:</ins> Xiaokang Pan\#, Xingyu Li\*, Jin Liu, Tao Sun, Kai Sun, Lixing Chen, and **Zhe Qu\***,\
    <ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2024, (CCF A). [PDF](https://openreview.net/pdf?id=DsVzHj7jcA)
-5. <ins>Title:</ins> FedGCA: Global Consistent Augmentation based Single-Source Federated Domain Generalization,\
+6. <ins>Title:</ins> FedGCA: Global Consistent Augmentation based Single-Source Federated Domain Generalization,\
    <ins>Authors:</ins> Yuan Liu\#, Shu Wang\#, **Zhe Qu\***, Xingyu Li, Shichao Kan, and Jianxin Wang,\
    <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). [PDF]()
-6. <ins>Title:</ins> FedMMR: Multi-Modal Federated Learning via Missing Modality Reconstruction,\
+7. <ins>Title:</ins> FedMMR: Multi-Modal Federated Learning via Missing Modality Reconstruction,\
    <ins>Authors:</ins> Shu Wang\#, **Zhe Qu\***, Yuan Liu\#, Shichao Kan, Yixiong Liang, and Jianxin Wang,\
    <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). <r>Best Paper Award!</r> [PDF]()
-7. <ins>Title:</ins> Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints,\
+8. <ins>Title:</ins> Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints,\
    <ins>Authors:</ins> Jiahao Xue, **Zhe Qu\***, Jie Xu, Yao Liu, and Zhuo Lu,\
    <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 23, Issue: 6, pp. 7470-7482, June 2024, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf)
-8. <ins>Title:</ins> Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information,\
+9. <ins>Title:</ins> Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information,\
    <ins>Authors:</ins> **Zhe Qu**, Rui Duan, Xiao Han, Shangqing Zhao, Yao Liu, and Zhuo Lu,\
    <ins>Proc:</ins> IEEE Symposium on Security and Privacy **(S&P)**, May 2024, (CCF A). [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a042/1RjEagFjTDW)
-9. <ins>Title:</ins> Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale,\
+10. <ins>Title:</ins> Divide, Conquer, and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection at Scale,\
    <ins>Authors:</ins> Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, and **Zhe Qu**,\
    <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2024, (CCF A). [PDF](https://dl.acm.org/doi/10.1145/3589334.3645457)
-10. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,\
+11. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,\
    <ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu,\
    <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Apr. 2024, (CCF A). [PDF](https://ieeexplore.ieee.org/abstract/document/10518069?casa_token=Nbo0poI6bbcAAAAA:lC_SwHhnsivLb3a5FEnPiRjCWfOBksFuYn9MJv7E7SyM6AsCiBwmmoxBE_OtoziLOOvOH_2N)
-11. <ins>Title:</ins> Segmenting Ischemic Penumbra and Infarct Core Simultaneously on Non-Contrast CT of Patients with Acute Ischemic Stroke Using A Novel Convolutional Neural Network,\
+12. <ins>Title:</ins> Segmenting Ischemic Penumbra and Infarct Core Simultaneously on Non-Contrast CT of Patients with Acute Ischemic Stroke Using A Novel Convolutional Neural Network,\
    <ins>Authors:</ins> Hulin Kuang, Xianzhen Tan, Jie Wang, **Zhe Qu**, Yuxin Cai, Qiong Chen, Beom Joon Kim, and Wu Qiu,\
    <ins>Proc:</ins> Biomedicines, Mar 2024. [PDF](https://www.mdpi.com/2227-9059/12/3/580)
-12. <ins>Title:</ins> Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models,\
+13. <ins>Title:</ins> Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models,\
    <ins>Authors:</ins> Rui Duan, **Zhe Qu**, Leah Ding, Yao Liu, and Zhuo Lu,\
    <ins>Proc:</ins> Network and Distributed System Security Symposium **(NDSS)**, Feb. 2024, (CCF A). [PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-545-paper.pdf)
-13. <ins>Title:</ins> What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception,\
+14. <ins>Title:</ins> What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception,\
    <ins>Authors:</ins> Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, **Zhe Qu**, and Pan Zhou,\
    <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb. 2024, (CCF A). [PDF](https://arxiv.org/pdf/2403.10068.pdf)
-14. <ins>Title:</ins> Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization,\
+15. <ins>Title:</ins> Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization,\
    <ins>Authors:</ins> Jin Liu, Xiaokang Pan\#, Junwen Duan, Hongdong Li, Youqi Li, and **Zhe Qu\***,\
    <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb. 2024, (CCF A). [PDF](https://arxiv.org/pdf/2308.09604.pdf)
-15. <ins>Title:</ins> FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation,\
+16. <ins>Title:</ins> FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation,\
    <ins>Authors:</ins> Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu,\
    <ins>Proc:</ins> IEEE Transactions on Cybernetics **(TCYB)**, Vol. 54, no. 1, pp. 401-414, Jan. 2024, (CCF B). [PDF](https://arxiv.org/pdf/2112.11989.pdf)
 
