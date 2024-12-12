@@ -28,11 +28,10 @@ I am a tenure-track associate professor at the [School of Computer Science and E
 ### Contact
 Email: zhe_qu [at] csu.edu.cn
 
-I would kindly suggest you read the [Advice for Prospective Research Students](https://uvasrg.github.io/prospective/) by Prof. [David Evans](https://www.cs.virginia.edu/~evans/) before writing the email.
-
 
 
 # News
+- [12/2024] Our paper "**How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?**" has been accepted by AAAI 2025. Congrats Wenjun!
 - [05/2024] Our paper "**Stability and Generalization for Stochastic Recursive Momentum-based Algorithms for (Strongly-)Convex One to $K$-Level Stochastic Optimizations**" has been accepted by ICML 2024. Congrats Xiaokang!
 - [03/2024] Two papers "**FedMMR: Multi-Modal Federated Learning via Missing Modality Reconstruction**" and "**FedGCA: Global Consistent Augmentation based Single-Source Federated Domain Generalization**" have been accepted by ICME 2024. Congrats Shu and Yuan!
 - [01/2024] Our paper "**Meta Parallel Graph Neural Network for IoT Intrusion Detection**" has been accepted by WWW 2024.
