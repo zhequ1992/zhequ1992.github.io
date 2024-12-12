@@ -27,8 +27,11 @@ In Submission
 <ins>Authors:</ins> Yutong Zhang, Lixing Chen, Shenghong Li, Nan Cao, Yang Shi, Jiaxin Ding, **Zhe Qu**, Pan Zhou and Yang Bai,\
    <ins>Proc:</ins> SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD)**, August 2025, (CCF A). [PDF]()
 2. <ins>Title:</ins> A unified Personalized Federated Learning framework ensuring Domain Generalization,\
-<ins>Authors:</ins> Yuan Liu\#, Zhe Qu, Shu Wang\#, Chengchao Shen, Yixiong Liang, and Jianxin Wang,\
-   <ins>Proc:</ins> Expert Systems with Applications, Vol: 263, pp. 125700, March 2025, (JCR Q1). [PDF]()
+<ins>Authors:</ins> Yuan Liu\#, **Zhe Qu**, Shu Wang\#, Chengchao Shen, Yixiong Liang, and Jianxin Wang,\
+   <ins>Proc:</ins> Expert Systems with Applications, Vol: 263, pp. 125700, March 2025, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0957417424025673)
+3. <ins>Title:</ins> How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?,\
+<ins>Authors:</ins> Wenjun Ding\#, Ying An, Lixing Chen, Shichao Kan, Fan Wu*, and **Zhe Qu***,\
+   <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb. 2025, (CCF A). [PDF]()
 
 
 2024
@@ -41,16 +44,16 @@ In Submission
    <ins>Proc:</ins> IEEE International Conference on Bioinformatics and Biomedicine **(BIBM)**, December 2024, (CCF B). [PDF]()
 3. <ins>Title:</ins> MARE: Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction,\
    <ins>Authors:</ins> Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang,\
-   <ins>Proc:</ins> The Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, Nov. 2024, (CCF B). [PDF]()
+   <ins>Proc:</ins> The Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, Nov. 2024, (CCF B). [PDF](https://arxiv.org/pdf/2410.03531)
 4. <ins>Title:</ins> Stability and Generalization for Stochastic Recursive Momentum-based Algorithms for (Strongly)-Convex One to $K$-Level Stochastic Optimizations,\
    <ins>Authors:</ins> Xiaokang Pan\#, Xingyu Li\*, Jin Liu, Tao Sun, Kai Sun, Lixing Chen, and **Zhe Qu\***,\
    <ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2024, (CCF A). [PDF](https://openreview.net/pdf?id=DsVzHj7jcA)
 5. <ins>Title:</ins> FedGCA: Global Consistent Augmentation based Single-Source Federated Domain Generalization,\
    <ins>Authors:</ins> Yuan Liu\#, Shu Wang\#, **Zhe Qu\***, Xingyu Li, Shichao Kan, and Jianxin Wang,\
-   <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). [PDF]()
+   <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). [PDF](https://arxiv.org/pdf/2409.14671)
 6. <ins>Title:</ins> FedMMR: Multi-Modal Federated Learning via Missing Modality Reconstruction,\
    <ins>Authors:</ins> Shu Wang\#, **Zhe Qu\***, Yuan Liu\#, Shichao Kan, Yixiong Liang, and Jianxin Wang,\
-   <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). <r>Best Paper Award!</r> [PDF]()
+   <ins>Proc:</ins> IEEE International Conference on Multimedia and Expo **(ICME)**, July 2024, (CCF B). <r>Best Paper Award!</r> [PDF](https://ieeexplore.ieee.org/document/10688162)
 7. <ins>Title:</ins> Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints,\
    <ins>Authors:</ins> Jiahao Xue, **Zhe Qu\***, Jie Xu, Yao Liu, and Zhuo Lu,\
    <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 23, Issue: 6, pp. 7470-7482, June 2024, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf)
