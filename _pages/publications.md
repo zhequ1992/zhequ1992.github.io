@@ -30,7 +30,7 @@ In Submission
 <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu**, Shu Wang\#, Chengchao Shen, Yixiong Liang, and Jianxin Wang,\
    <ins>Proc:</ins> Expert Systems with Applications, Vol: 263, pp. 125700, March 2025, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0957417424025673)
 3. <ins>Title:</ins> How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?,\
-<ins>Authors:</ins> Wenjun Ding\#, Ying An, Lixing Chen, Shichao Kan, Fan Wu*, and **Zhe Qu***,\
+<ins>Authors:</ins> Wenjun Ding\#, Ying An, Lixing Chen, Shichao Kan, Fan Wu*, and **Zhe Qu\***,\
    <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb. 2025, (CCF A). [PDF]()
 
 
