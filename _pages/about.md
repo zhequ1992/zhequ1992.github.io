@@ -18,7 +18,7 @@ Welcome to Zhe Qu's homepage!
 # About Me
 I am a professor at the [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). I received a B.S. from the Department of Automation at [Xiamen University](https://www.xmu.edu.cn/) in 2015, an M.S. from the Department of Electrical and Computer Engineering at [University of Delaware](https://www.udel.edu/) in 2017, and Ph.D. from the Department of Electrical Engineering at [University of South Florida](https://www.usf.edu/) under the supervision of [Prof. Zhuo Lu](https://csalab.site).
 
-<r>Opening: I am seeking self-motivated Master students to join my group. Please send me a short email with your C.V. and anything you believe relevant!</r>
+<r>Opening: I am seeking self-motivated Ph.D. and Master students to join my group. Please send me a short email with your C.V. and anything you believe relevant!</r>
 
 ### Research Interests:
 - Networking/Web Security
