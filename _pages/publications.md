@@ -12,26 +12,26 @@ g { color: Green }
 
 \*Corresponding Author   \#My Supervised Student      
 
-In Submission
-=====
-1. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
-<ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu.
-2. <ins>Title:</ins> Inter-Instance Similarity Modeling for Contrastive Learning,\
- <ins>Authors:</ins> Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang.
-3. <ins>Title:</ins> Adapting Microservice Deployment at Network Edge via Distributed Graph Reinforcement Learning,\
-   <ins>Authors:</ins> Lixing Chen, Zhongqi Miao, Yang Bai, Pan Zhou, **Zhe Qu**, Jianhua Li, and Cailian Chen.
-
 2025
 ====
-1. <ins>Title:</ins> Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph,\
+1. <ins>Title:</ins> ARIG-GCN: Anatomical Relationship and Isomorphic Graph Approximation Guided Graph Convolutional Network for Automated ASPECTS Scoring on Non-Contrast CT,\
+<ins>Authors:</ins> Ning Li, **Zhe Qu**, Jie Wang, and Hulin Kuang,\
+   <ins>Proc:</ins> IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**, April 2025, (CCF B). [PDF]()
+2.  <ins>Title:</ins> AISCT-SAM: A Clinical Knowledge-Driven Fine-Tuning Strategy for Applying Foundation Model to Fully Automatic Acute Ischemic Stroke Lesion Segmentation on Non-Contrast CT Scans,\
+<ins>Authors:</ins> Xianzhen Tan, **Zhe Qu**, Jie Wang, and Hulin Kuang,\
+   <ins>Proc:</ins> IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**, April 2025, (CCF B). [PDF]()
+3. <ins>Title:</ins> Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph,\
 <ins>Authors:</ins> Yutong Zhang, Lixing Chen, Shenghong Li, Nan Cao, Yang Shi, Jiaxin Ding, **Zhe Qu**, Pan Zhou and Yang Bai,\
    <ins>Proc:</ins> SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD)**, August 2025, (CCF A). [PDF]()
-2. <ins>Title:</ins> A unified Personalized Federated Learning framework ensuring Domain Generalization,\
+4. <ins>Title:</ins> A unified Personalized Federated Learning framework ensuring Domain Generalization,\
 <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu**, Shu Wang\#, Chengchao Shen, Yixiong Liang, and Jianxin Wang,\
    <ins>Proc:</ins> Expert Systems with Applications, Vol: 263, pp. 125700, March 2025, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0957417424025673)
-3. <ins>Title:</ins> How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?,\
+5. <ins>Title:</ins> How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?,\
 <ins>Authors:</ins> Wenjun Ding\#, Ying An, Lixing Chen, Shichao Kan, Fan Wu*, and **Zhe Qu\***,\
    <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb. 2025, (CCF A). [PDF]()
+6. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
+<ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu,\
+<ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, Early Access, Jan 2025, (CCF A). [PDF]()
 
 
 2024
