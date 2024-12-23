@@ -19,7 +19,8 @@ Education
 
 Research experience
 ======
-* Tenure-Track Associate Professor, Central South University, 02/2023 - present
+* Professor, Central South University, 12/2024 - present
+* Tenure-Track Associate Professor, Central South University, 02/2023 - 12/2024
 * Research Assistant, University of South Florida, 08/2018 - 12/2022
   
 Professional Service
