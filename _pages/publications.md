@@ -30,7 +30,7 @@ g { color: Green }
 <ins>Authors:</ins> Wenjun Ding\#, Ying An, Lixing Chen, Shichao Kan, Fan Wu*, and **Zhe Qu\***,\
    <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb. 2025, (CCF A). [PDF]()
 6. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
-<ins>Authors:</ins> Rui Duan, **Zhe Qu**, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu,\
+<ins>Authors:</ins> Rui Duan, **Zhe Qu\***, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu,\
 <ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, Early Access, Jan 2025, (CCF A). [PDF]()
 
 
