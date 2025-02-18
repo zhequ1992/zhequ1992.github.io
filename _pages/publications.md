@@ -15,7 +15,7 @@ g { color: Green }
 2025
 ====
 1. <ins>Title:</ins> Towards Collaborative Intelligence for Meta-computing-driven IIoT based on Vertical Federated Learning with Fast Convergence,\
-<ins>Authors:</ins> Youqi Li, Shuangji Liu, Shenyi Qi, **Zhe Qu\***, Fan Li, and Yu Wang,\
+<ins>Authors:</ins> Youqi Li, Shuangji Liu, Shenyi Qi, **Zhe Qu**, Fan Li, and Yu Wang,\
 <ins>Proc:</ins> IEEE Internet of Things Journal **(IoT)**, Early Access, Jan 2025, (JCR 1). [PDF]()
 2. <ins>Title:</ins> ARIG-GCN: Anatomical Relationship and Isomorphic Graph Approximation Guided Graph Convolutional Network for Automated ASPECTS Scoring on Non-Contrast CT,\
 <ins>Authors:</ins> Ning Li, **Zhe Qu**, Jie Wang, and Hulin Kuang,\
