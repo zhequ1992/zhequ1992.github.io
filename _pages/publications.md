@@ -23,28 +23,28 @@ g { color: Green }
 3. <ins>Title:</ins> TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging,\
 <ins>Authors:</ins> Chuang Liu, Hongyan Xu, Yichao Cao, Xiu Su, **Zhe Qu**, Tianfa Li, Shan An, and Haogang Zhu,\
 <ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2025, (CCF A). [PDF]()
-4. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
-<ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, and Jianxin Wang,\
-<ins>Proc:</ins> IEEE Transactions on Computational Social Systems **(TCSS)**, Early Access, Mar 2025, (JCR Q1). [PDF]()
-5. <ins>Title:</ins> Towards Collaborative Intelligence for Meta-computing-driven IIoT based on Vertical Federated Learning with Fast Convergence,\
+4. <ins>Title:</ins> Towards Collaborative Intelligence for Meta-computing-driven IIoT based on Vertical Federated Learning with Fast Convergence,\
 <ins>Authors:</ins> Youqi Li, Shuangji Liu, Shenyi Qi, **Zhe Qu**, Fan Li, and Yu Wang,\
-<ins>Proc:</ins> IEEE Internet of Things Journal **(IoT)**, Early Access, Jan 2025, (JCR Q1). [PDF]()
+<ins>Proc:</ins> IEEE Internet of Things Journal **(IoT)**, Volume: 12, Issue: 10, pp. 13806-13816, May 2025, (JCR Q1). [PDF]()
+5. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
+<ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, and Jianxin Wang,\
+<ins>Proc:</ins> IEEE Transactions on Computational Social Systems **(TCSS)**, Early Access, Mar 2025, (JCR Q1). [PDF]() 
 6. <ins>Title:</ins> ARIG-GCN: Anatomical Relationship and Isomorphic Graph Approximation Guided Graph Convolutional Network for Automated ASPECTS Scoring on Non-Contrast CT,\
 <ins>Authors:</ins> Ning Li, **Zhe Qu**, Jie Wang, and Hulin Kuang,\
 <ins>Proc:</ins> IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**, April 2025, (CCF B). [PDF]()
-7.  <ins>Title:</ins> AISCT-SAM: A Clinical Knowledge-Driven Fine-Tuning Strategy for Applying Foundation Model to Fully Automatic Acute Ischemic Stroke Lesion Segmentation on Non-Contrast CT Scans,\
+8.  <ins>Title:</ins> AISCT-SAM: A Clinical Knowledge-Driven Fine-Tuning Strategy for Applying Foundation Model to Fully Automatic Acute Ischemic Stroke Lesion Segmentation on Non-Contrast CT Scans,\
 <ins>Authors:</ins> Xianzhen Tan, **Zhe Qu**, Jie Wang, and Hulin Kuang,\
 <ins>Proc:</ins> IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**, April 2025, (CCF B). [PDF]()
-8. <ins>Title:</ins> Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph,\
+9. <ins>Title:</ins> Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph,\
 <ins>Authors:</ins> Yutong Zhang, Lixing Chen, Shenghong Li, Nan Cao, Yang Shi, Jiaxin Ding, **Zhe Qu**, Pan Zhou and Yang Bai,\
    <ins>Proc:</ins> SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD)**, August 2025, (CCF A). [PDF]()
-9. <ins>Title:</ins> A unified Personalized Federated Learning framework ensuring Domain Generalization,\
+10. <ins>Title:</ins> A unified Personalized Federated Learning framework ensuring Domain Generalization,\
 <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu**, Shu Wang\#, Chengchao Shen, Yixiong Liang, and Jianxin Wang,\
    <ins>Proc:</ins> Expert Systems with Applications, Vol: 263, pp. 125700, March 2025, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0957417424025673)
-10. <ins>Title:</ins> How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?,\
+11. <ins>Title:</ins> How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?,\
 <ins>Authors:</ins> Wenjun Ding\#, Ying An, Lixing Chen, Shichao Kan, Fan Wu*, and **Zhe Qu\***,\
    <ins>Proc:</ins> AAAI Conference on Artificial Intelligence **(AAAI)**, Feb. 2025, (CCF A). [PDF]()
-11. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
+12. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
 <ins>Authors:</ins> Rui Duan, **Zhe Qu\***, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu,\
 <ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, Early Access, Jan 2025, (CCF A). [PDF]()
 
