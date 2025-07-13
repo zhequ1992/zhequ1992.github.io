@@ -14,22 +14,25 @@ g { color: Green }
 
 2025
 ====
-1. <ins>Title:</ins> Stability and Generalization for Stochastic (Compositional) Optimizations,\
+1. <ins>Title:</ins> Contrastive Regularization over LoRA for Multimodal Biomedical Image Incremental Learning,\
+<ins>Authors:</ins> Haojie Zhang, Yixiong Liang, Hulin Kuang, Lihui Cen, **Zhe Qu**, Yignag Cen, Min Zeng, and Shichao Kan\
+<ins>Proc:</ins> ACM Multimedia **(MM)**, October 2025, (CCF A). [PDF]()
+2. <ins>Title:</ins> Stability and Generalization for Stochastic (Compositional) Optimizations,\
 <ins>Authors:</ins> Xiaokang Pan\#, Jin Liu, Hulin Kuang\*, Youqi Li, Lixing Chen, and **Zhe Qu\***,\
 <ins>Proc:</ins> International Joint Conference on Artificial Intelligence **(IJCAI)**, August 2025, (CCF A). [PDF]()
-2. <ins>Title:</ins> Stable Fair Graph Representation Learning with Lipschitz Constraint,\
+3. <ins>Title:</ins> Stable Fair Graph Representation Learning with Lipschitz Constraint,\
 <ins>Authors:</ins> Qiang Chen, Zhongze Wu, Xiu Su, Xi Lin, **Zhe Qu**, Shan You, Shuo Yang, and Chang Xu,\
 <ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2025, (CCF A). [PDF]()
-3. <ins>Title:</ins> TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging,\
+4. <ins>Title:</ins> TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging,\
 <ins>Authors:</ins> Chuang Liu, Hongyan Xu, Yichao Cao, Xiu Su, **Zhe Qu**, Tianfa Li, Shan An, and Haogang Zhu,\
 <ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2025, (CCF A). [PDF]()
-4. <ins>Title:</ins> Towards Collaborative Intelligence for Meta-computing-driven IIoT based on Vertical Federated Learning with Fast Convergence,\
+5. <ins>Title:</ins> Towards Collaborative Intelligence for Meta-computing-driven IIoT based on Vertical Federated Learning with Fast Convergence,\
 <ins>Authors:</ins> Youqi Li, Shuangji Liu, Shenyi Qi, **Zhe Qu**, Fan Li, and Yu Wang,\
 <ins>Proc:</ins> IEEE Internet of Things Journal **(IoT)**, Volume: 12, Issue: 10, pp. 13806-13816, May 2025, (JCR Q1). [PDF]()
-5. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
+6. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
 <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, and Jianxin Wang,\
 <ins>Proc:</ins> IEEE Transactions on Computational Social Systems **(TCSS)**, Early Access, Mar 2025, (JCR Q1). [PDF]() 
-6. <ins>Title:</ins> ARIG-GCN: Anatomical Relationship and Isomorphic Graph Approximation Guided Graph Convolutional Network for Automated ASPECTS Scoring on Non-Contrast CT,\
+7. <ins>Title:</ins> ARIG-GCN: Anatomical Relationship and Isomorphic Graph Approximation Guided Graph Convolutional Network for Automated ASPECTS Scoring on Non-Contrast CT,\
 <ins>Authors:</ins> Ning Li, **Zhe Qu**, Jie Wang, and Hulin Kuang,\
 <ins>Proc:</ins> IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**, April 2025, (CCF B). [PDF]()
 8.  <ins>Title:</ins> AISCT-SAM: A Clinical Knowledge-Driven Fine-Tuning Strategy for Applying Foundation Model to Fully Automatic Acute Ischemic Stroke Lesion Segmentation on Non-Contrast CT Scans,\
