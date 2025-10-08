@@ -14,7 +14,7 @@ g { color: Green }
 
 Conference Paper
 ====
- <ins>Title:</ins> Towards a Deep Understanding and Practical Guideline on the SameSite Policy,\
+31. <ins>Title:</ins> Towards a Deep Understanding and Practical Guideline on the SameSite Policy,\
 <ins>Authors:</ins> Shuang Wu\#, Ying Yu\#, Yan Liu\#, Xiangyu Gao\#, and **Zhe Qu\***,\
 <ins>Proc:</ins> IEEE International Conference on Trust, Security, and Privacy in Computing and COmmunications **(TrustCom)**, December 2025, (CCF C). [PDF]()
 30. <ins>Title:</ins> GMReg: Group Mamba Correlation based Pyramid Network with Edge Enhancement for Medical Image Registration,\
