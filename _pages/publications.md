@@ -110,6 +110,9 @@ Conference Paper
 
 Journal Paper
 ====
+16. <ins>Title:</ins> Adaptive Momentum Enhanced Second-Order Stochastic Federated Learning,\
+<ins>Authors:</ins> Jiahao Zhang\#, Xiaokang Pan\#, Jingling Liu, and **Zhe Qu\***\
+<ins>Proc:</ins> Neurocomputing, Early Access, January 2026, (JCR Q1). [PDF]()
 15. <ins>Title:</ins> Tactics and Techniques Text Classification Based on Adversarial Contrastive Learning and Meta-Path,\
 <ins>Authors:</ins> Yuchun Han, Weiping Wang, **Zhe Qu**, and Shigeng Zhang\
 <ins>Proc:</ins> IEEE Transactions on Information Forensics and Security **(TIFS)**, Early Access, September 2025, (CCF A). [PDF]()
