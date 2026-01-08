@@ -116,12 +116,12 @@ Journal Paper
 16. <ins>Title:</ins> Adaptive Momentum Enhanced Second-Order Stochastic Federated Learning,\
 <ins>Authors:</ins> Jiahao Zhang\#, Xiaokang Pan\#, Jingling Liu, and **Zhe Qu\***\
 <ins>Proc:</ins> Neurocomputing, Volumne: 670, January 2026, PP. 132628, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0925231226000251)
-15. <ins>Title:</ins> Tactics and Techniques Text Classification Based on Adversarial Contrastive Learning and Meta-Path,\
-<ins>Authors:</ins> Yuchun Han, Weiping Wang, **Zhe Qu**, and Shigeng Zhang\
-<ins>Proc:</ins> IEEE Transactions on Information Forensics and Security **(TIFS)**, Early Access, September 2025, (CCF A). [PDF]()
-14. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
+15. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
 <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, and Jianxin Wang,\
 <ins>Proc:</ins> IEEE Transactions on Computational Social Systems **(TCSS)**, Volume: 12, Issue: 5, PP. 3131-3142, October 2025, (JCR Q1). [PDF]()
+14. <ins>Title:</ins> Tactics and Techniques Text Classification Based on Adversarial Contrastive Learning and Meta-Path,\
+<ins>Authors:</ins> Yuchun Han, Weiping Wang, **Zhe Qu**, and Shigeng Zhang\
+<ins>Proc:</ins> IEEE Transactions on Information Forensics and Security **(TIFS)**, Vol, 20, pp. 10098-10113, September 2025, (CCF A). [PDF]()
 13. <ins>Title:</ins> Perception-Aware Attack against Music Copyright Detection: Impacts and Defenses,\
 <ins>Authors:</ins> Rui Duan, **Zhe Qu\***, Shangqing Zhao, Leah Ding, Yao Liu, and Zhuo Lu,\
 <ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, Volume: 22, Issue: 3, PP. 2959-2977, May-June 2025, (CCF A). [PDF](https://ieeexplore.ieee.org/document/10816512)
