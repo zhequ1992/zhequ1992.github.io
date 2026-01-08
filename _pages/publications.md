@@ -112,10 +112,10 @@ Journal Paper
 ====
 17. <ins>Title:</ins> Integrating spatial features and dynamically learned temporal features via contrastive learning for video temporal grounding in LLM,\
 <ins>Authors:</ins> Peifu Wang, Yixiong Liang, Yigang Cen, Lihui Cen, **Zhe Qu**, Jingling Liu, and Shichao Kan\
-<ins>Proc:</ins> Image and Vision Computing, Volumne: 167, January 2026, PP. 105895, (JCR Q1). [PDF]([https://www.sciencedirect.com/science/article/pii/S0925231226000251](https://www.sciencedirect.com/science/article/abs/pii/S0262885626000016))
+<ins>Proc:</ins> Image and Vision Computing, Volume: 167, January 2026, PP. 105895, (JCR Q1). [PDF]([https://www.sciencedirect.com/science/article/pii/S0925231226000251](https://www.sciencedirect.com/science/article/abs/pii/S0262885626000016))
 16. <ins>Title:</ins> Adaptive Momentum Enhanced Second-Order Stochastic Federated Learning,\
 <ins>Authors:</ins> Jiahao Zhang\#, Xiaokang Pan\#, Jingling Liu, and **Zhe Qu\***\
-<ins>Proc:</ins> Neurocomputing, Volumne: 670, January 2026, PP. 132628, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0925231226000251)
+<ins>Proc:</ins> Neurocomputing, Volume: 670, January 2026, PP. 132628, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0925231226000251)
 15. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
 <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, and Jianxin Wang,\
 <ins>Proc:</ins> IEEE Transactions on Computational Social Systems **(TCSS)**, Volume: 12, Issue: 5, PP. 3131-3142, October 2025, (JCR Q1). [PDF]()
