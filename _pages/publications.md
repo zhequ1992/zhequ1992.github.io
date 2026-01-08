@@ -110,9 +110,12 @@ Conference Paper
 
 Journal Paper
 ====
+17. <ins>Title:</ins> Integrating spatial features and dynamically learned temporal features via contrastive learning for video temporal grounding in LLM,\
+<ins>Authors:</ins> Peifu Wang, Yixiong Liang, Yigang Cen, Lihui Cen, **Zhe Qu**, Jingling Liu, and Shichao Kan\
+<ins>Proc:</ins> Image and Vision Computing, Volumne: 167, January 2026, PP. 105895, (JCR Q1). [PDF]([https://www.sciencedirect.com/science/article/pii/S0925231226000251](https://www.sciencedirect.com/science/article/abs/pii/S0262885626000016))
 16. <ins>Title:</ins> Adaptive Momentum Enhanced Second-Order Stochastic Federated Learning,\
 <ins>Authors:</ins> Jiahao Zhang\#, Xiaokang Pan\#, Jingling Liu, and **Zhe Qu\***\
-<ins>Proc:</ins> Neurocomputing, Early Access, January 2026, (JCR Q1). [PDF]()
+<ins>Proc:</ins> Neurocomputing, Volumne: 670, January 2026, PP. 132628, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0925231226000251)
 15. <ins>Title:</ins> Tactics and Techniques Text Classification Based on Adversarial Contrastive Learning and Meta-Path,\
 <ins>Authors:</ins> Yuchun Han, Weiping Wang, **Zhe Qu**, and Shigeng Zhang\
 <ins>Proc:</ins> IEEE Transactions on Information Forensics and Security **(TIFS)**, Early Access, September 2025, (CCF A). [PDF]()
