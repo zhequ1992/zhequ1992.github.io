@@ -14,6 +14,12 @@ g { color: Green }
 
 Conference Paper
 ====
+33. <ins>Title:</ins> Augmenting Cross-View Geo-Localization with Spatial Semantics from Vision Foundation Models,\
+   <ins>Authors:</ins> Ji Shen, Lixing Chen, Yang Bai, Zhongqi Miao, **Zhe Qu**, Pan Zhou, and Jianhua Li,\
+   <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2026, (CCF A). [PDF]()
+32. <ins>Title:</ins> How Human Experts Educate Specialized LLMs: Filling Knowledge Gaps in KG-Augmented Generation through Hallucination Detection,\
+   <ins>Authors:</ins> Chaofan Li, Lixing Chen, Jianhua Tang, Yang Bai, Yutong Zhang, Zhi Zheng, Pan Zhou, and **Zhe Qu**,\
+   <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2026, (CCF A). [PDF]()
 31. <ins>Title:</ins> Towards a Deep Understanding and Practical Guideline on the SameSite Policy,\
 <ins>Authors:</ins> Shuang Wu\#, Ying Yu\#, Yan Liu\#, Xiangyu Gao\#, and **Zhe Qu\***,\
 <ins>Proc:</ins> IEEE International Conference on Trust, Security, and Privacy in Computing and Communications **(TrustCom)**, December 2025, (CCF C). [PDF]()
@@ -110,12 +116,15 @@ Conference Paper
 
 Journal Paper
 ====
-17. <ins>Title:</ins> Integrating spatial features and dynamically learned temporal features via contrastive learning for video temporal grounding in LLM,\
+18. <ins>Title:</ins> Integrating spatial features and dynamically learned temporal features via contrastive learning for video temporal grounding in LLM,\
 <ins>Authors:</ins> Peifu Wang, Yixiong Liang, Yigang Cen, Lihui Cen, **Zhe Qu**, Jingling Liu, and Shichao Kan\
-<ins>Proc:</ins> Image and Vision Computing, Volume: 167, January 2026, PP. 105895, (JCR Q1). [PDF]([https://www.sciencedirect.com/science/article/pii/S0925231226000251](https://www.sciencedirect.com/science/article/abs/pii/S0262885626000016))
-16. <ins>Title:</ins> Adaptive Momentum Enhanced Second-Order Stochastic Federated Learning,\
+<ins>Proc:</ins> Image and Vision Computing, Volume: 167, January 2026, PP. 105895, (JCR Q1). [PDF]([https://www.sciencedirect.com/science/article/pii/S0925231226000251])
+17. <ins>Title:</ins> Adaptive Momentum Enhanced Second-Order Stochastic Federated Learning,\
 <ins>Authors:</ins> Jiahao Zhang\#, Xiaokang Pan\#, Jingling Liu, and **Zhe Qu\***\
 <ins>Proc:</ins> Neurocomputing, Volume: 670, January 2026, PP. 132628, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0925231226000251)
+16. <ins>Title:</ins> You Only Forward Once: Prediction and Rationalization in a Single Forward Pass,\
+<ins>Authors:</ins> Wei Xue, Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang\
+<ins>Proc:</ins> Big Data Mining and Analytics, Early Access, September 2025, (JCR Q1). [PDF]([[https://www.sciencedirect.com/science/article/pii/S0925231226000251]](https://www.sciopen.com/article/pdf/10.26599/BDMA.2025.9020084.pdf))
 15. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
 <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, and Jianxin Wang,\
 <ins>Proc:</ins> IEEE Transactions on Computational Social Systems **(TCSS)**, Volume: 12, Issue: 5, PP. 3131-3142, October 2025, (JCR Q1). [PDF]()
