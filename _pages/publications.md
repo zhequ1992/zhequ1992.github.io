@@ -118,7 +118,7 @@ Journal Paper
 ====
 20. <ins>Title:</ins> Time Will Tell: Criss-cross Transformer for Encrypted Traffic Analysis,\
 <ins>Authors:</ins> Hua Ding, Lixing Chen, Bo Zhang, Shenghong Li, Hao Peng, **Zhe Qu**, Yang Bai\
-<ins>Proc:</ins> IEEE Transactions on Service Computing **(TSC)**, February 2026, Early Access, (CCF A). [PDF]()
+<ins>Proc:</ins> IEEE Transactions on Services Computing **(TSC)**, February 2026, Early Access, (CCF A). [PDF]()
 19. <ins>Title:</ins> DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Reinforcement Learning Framework with Heterogeneous Graph Neural Networks,\
 <ins>Authors:</ins> Zhongqi Miao, Xichun Cai, Lixing Chen, Yang Bai, Heqiang Wang, **Zhe Qu**, Pan Zhou, Xinping Guan\
 <ins>Proc:</ins> IEEE/ACM Transactions on Networking **(TON)**, January 2026, Early Access, (CCF A). [PDF]()
