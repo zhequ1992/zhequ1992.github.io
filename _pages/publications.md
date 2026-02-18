@@ -116,9 +116,12 @@ Conference Paper
 
 Journal Paper
 ====
+20. <ins>Title:</ins> Time Will Tell: Criss-cross Transformer for Encrypted Traffic Analysis,\
+<ins>Authors:</ins> Hua Ding, Lixing Chen, Bo Zhang, Shenghong Li, Hao Peng, **Zhe Qu**, Yang Bai\
+<ins>Proc:</ins> IEEE Transactions on Service Computing **(TSC)**, February 2026, Early Access, (CCF A). [PDF]()
 19. <ins>Title:</ins> DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Reinforcement Learning Framework with Heterogeneous Graph Neural Networks,\
 <ins>Authors:</ins> Zhongqi Miao, Xichun Cai, Lixing Chen, Yang Bai, Heqiang Wang, **Zhe Qu**, Pan Zhou, Xinping Guan\
-<ins>Proc:</ins> IEEE Transactions on Networking **(TON)**, January 2026, Early Access, (CCF A). [PDF]()
+<ins>Proc:</ins> IEEE/ACM Transactions on Networking **(TON)**, January 2026, Early Access, (CCF A). [PDF]()
 18. <ins>Title:</ins> Integrating spatial features and dynamically learned temporal features via contrastive learning for video temporal grounding in LLM,\
 <ins>Authors:</ins> Peifu Wang, Yixiong Liang, Yigang Cen, Lihui Cen, **Zhe Qu**, Jingling Liu, and Shichao Kan\
 <ins>Proc:</ins> Image and Vision Computing, Volume: 167, January 2026, PP. 105895, (JCR Q1). [PDF]([https://www.sciencedirect.com/science/article/pii/S0925231226000251])
