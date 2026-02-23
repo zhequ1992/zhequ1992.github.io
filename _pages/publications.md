@@ -116,6 +116,9 @@ Conference Paper
 
 Journal Paper
 ====
+21. <ins>Title:</ins> Hybrid Computing of Decentralized Applications in Edge Web 3.0: A Scheduling Strategy via Decision Transformer,\
+<ins>Authors:</ins> Zhongqi Miao, Xichun Cai, Lixing Chen, Yang Bai, Hongfu Liu, **Zhe Qu**, Pan Zhou, Xinping Guan\
+<ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, February 2026, Early Access, (CCF A). [PDF]()
 20. <ins>Title:</ins> Time Will Tell: Criss-cross Transformer for Encrypted Traffic Analysis,\
 <ins>Authors:</ins> Hua Ding, Lixing Chen, Bo Zhang, Shenghong Li, Hao Peng, **Zhe Qu**, Yang Bai\
 <ins>Proc:</ins> IEEE Transactions on Services Computing **(TSC)**, February 2026, Early Access, (CCF A). [PDF]()
