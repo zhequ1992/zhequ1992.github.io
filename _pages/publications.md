@@ -116,6 +116,9 @@ Conference Paper
 
 Journal Paper
 ====
+22. <ins>Title:</ins> HCMReg: A Pyramid Network with Hybrid Encoder and Cross Mamba Fusion for Unsupervised Medical Image Registration,\
+<ins>Authors:</ins> Hulin Kuang, Guangheng Wu, **Zhe Qu**, and Jie Wang\
+<ins>Proc:</ins> IEEE Transactions on Radiation and Plasma Medical Sciences **(TRPMS)**, March 2026, Early Access. [PDF]()
 21. <ins>Title:</ins> Hybrid Computing of Decentralized Applications in Edge Web 3.0: A Scheduling Strategy via Decision Transformer,\
 <ins>Authors:</ins> Zhongqi Miao, Xichun Cai, Lixing Chen, Yang Bai, Hongfu Liu, **Zhe Qu**, Pan Zhou, Xinping Guan\
 <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, February 2026, Early Access, (CCF A). [PDF]()
