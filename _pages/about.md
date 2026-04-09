@@ -21,9 +21,9 @@ I am a Professor at the [School of Computer Science and Engineering](https://cse
 <r>Opening: I am seeking self-motivated Ph.D. and Master students to join my group. Please send me a short email with your C.V. and anything you believe relevant!</r>
 
 ### Research Interests:
-- Networking/Web Security
-- AI Related Security
-- Software Engineering/Security
+- Embodied Intelligence Security
+- AI Agent Security
+- On Device AI
 
 ### Contact
 Email: zhe_qu [at] csu.edu.cn
