@@ -14,6 +14,14 @@ g { color: Green }
 
 Conference Paper
 ====
+35. <ins>Title:</ins> HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning,\
+<ins>Authors:</ins> Yunzhe Liu, Wenbiao Liu, Lihui Cen, **Zhe Qu**, Yigang Cen, Yixiong Liang, Yongfang Xie, and Shichao Kan,\
+<ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2026, (CCF A). [PDF]()
+23. <ins>Title:</ins> TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging,\
+34. <ins>Title:</ins> Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery,\
+<ins>Authors:</ins> Wenhao Li, Xiu Su, Dan Niu, Yichao Cao, Hongyan Xu, **Zhe Qu**, Lei Fan, Shao You, and Chang Xu,\
+<ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2026, (CCF A). [PDF]()
+23. <ins>Title:</ins> TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging,\
 33. <ins>Title:</ins> Augmenting Cross-View Geo-Localization with Spatial Semantics from Vision Foundation Models,\
    <ins>Authors:</ins> Ji Shen, Lixing Chen, Yang Bai, Zhongqi Miao, **Zhe Qu**, Pan Zhou, and Jianhua Li,\
    <ins>Proc:</ins> ACM the Web Conference **(WWW)**, May 2026, (CCF A). [PDF]()
