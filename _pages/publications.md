@@ -14,6 +14,9 @@ g { color: Green }
 
 Conference Paper
 ====
+36. <ins>Title:</ins> Agentic LLMs for Social Network Generation using Explainable Adversarial Re-prompting,\
+<ins>Authors:</ins> Haorui Yan, Lixing Chen, Bo Zhang, Hongfu Liu, Hao Peng, Shenghong Li, Yang Bai, and **Zhe Qu**,\
+<ins>Proc:</ins> SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD)**, August 2026, (CCF A). [PDF]()
 35. <ins>Title:</ins> HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning,\
 <ins>Authors:</ins> Yunzhe Liu, Wenbiao Liu, Lihui Cen, **Zhe Qu**, Yigang Cen, Yixiong Liang, Yongfang Xie, and Shichao Kan,\
 <ins>Proc:</ins> International Conference on Machine Learning **(ICML)**, July 2026, (CCF A). [PDF]()
