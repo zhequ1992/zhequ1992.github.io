@@ -14,6 +14,12 @@ g { color: Green }
 
 Conference Paper
 ====
+38. <ins>Title:</ins> PERMAB-GNN: Graph-Structured Prioritized Reinforcement Learning for Resource Allocation in Multi-UAV-Assisted Ultra-Dense Networks,\
+<ins>Authors:</ins> Shuai Li\#, Yuxuan Zhang, Yang Xiao, and **Zhe Qu\***,\
+<ins>Proc:</ins> International Conference on Wireless Artificial Intelligent Computing Systems and Applications **(WASA)**, June 2026, (CCF C). [PDF]()
+37. <ins>Title:</ins> BIDIF: A Biologically Inspired Dynamic Intrusion Framework for Zero-Day Attacks in Streaming Environments,\
+<ins>Authors:</ins> Ying Yu\#, Jin Liu, Shuang Wu, and **Zhe Qu\***,\
+<ins>Proc:</ins> International Conference on Wireless Artificial Intelligent Computing Systems and Applications **(WASA)**, June 2026, (CCF C). [PDF]()
 36. <ins>Title:</ins> Agentic LLMs for Social Network Generation using Explainable Adversarial Re-prompting,\
 <ins>Authors:</ins> Haorui Yan, Lixing Chen, Bo Zhang, Hongfu Liu, Hao Peng, Shenghong Li, Yang Bai, and **Zhe Qu**,\
 <ins>Proc:</ins> SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD)**, August 2026, (CCF A). [PDF]()
