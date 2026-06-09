@@ -131,6 +131,9 @@ Conference Paper
 
 Journal Paper
 ====
+23. <ins>Title:</ins> Making the Best of Both Worlds: Universal Perturbations for Live Black-Box Evasion against NIDS in Encrypted Traffic,\
+<ins>Authors:</ins> Hua Ding, Lixing Chen, Bo Zhang, Hao Peng, Shenghong Li, **Zhe Qu**, Pan Zhou, and Yang Bai\
+<ins>Proc:</ins> IEEE/ACM Transactions on Networking **(TON)**, June 2026, Early Access, (CCF A). [PDF]()
 22. <ins>Title:</ins> HCMReg: A Pyramid Network with Hybrid Encoder and Cross Mamba Fusion for Unsupervised Medical Image Registration,\
 <ins>Authors:</ins> Hulin Kuang, Guangheng Wu, **Zhe Qu**, and Jie Wang\
 <ins>Proc:</ins> IEEE Transactions on Radiation and Plasma Medical Sciences **(TRPMS)**, March 2026, Early Access. [PDF]()
