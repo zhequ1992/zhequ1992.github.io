@@ -131,6 +131,9 @@ Conference Paper
 
 Journal Paper
 ====
+24. <ins>Title:</ins> GT^2D: Unifying Temporal Dynamics and Spatial Topology for Encrypted Traffic Anomaly Detection,\
+<ins>Authors:</ins> Zhongqi Miao, Lixing Chen, Yang Bai, **Zhe Qu**, Pan Zhou, Heqiang Wang, and Youqi Li\
+<ins>Proc:</ins> IEEE Transactions on Cognitive Communications and Networking **(TCCN)**, July 2026, Early Access, (JCR Q1). [PDF]()
 23. <ins>Title:</ins> Making the Best of Both Worlds: Universal Perturbations for Live Black-Box Evasion against NIDS in Encrypted Traffic,\
 <ins>Authors:</ins> Hua Ding, Lixing Chen, Bo Zhang, Hao Peng, Shenghong Li, **Zhe Qu**, Pan Zhou, and Yang Bai\
 <ins>Proc:</ins> IEEE/ACM Transactions on Networking **(TON)**, June 2026, Early Access, (CCF A). [PDF]()
