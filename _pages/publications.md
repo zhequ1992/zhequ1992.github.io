@@ -131,6 +131,9 @@ Conference Paper
 
 Journal Paper
 ====
+25. <ins>Title:</ins> Inter-instance similarity modeling for contrastive learning,\
+<ins>Authors:</ins> Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang\
+<ins>Proc:</ins> Pattern Recognition **(PR)**, December 2026, Volume 180, (CCF B). [PDF]()
 24. <ins>Title:</ins> GT^2D: Unifying Temporal Dynamics and Spatial Topology for Encrypted Traffic Anomaly Detection,\
 <ins>Authors:</ins> Zhongqi Miao, Lixing Chen, Yang Bai, **Zhe Qu**, Pan Zhou, Heqiang Wang, and Youqi Li\
 <ins>Proc:</ins> IEEE Transactions on Cognitive Communications and Networking **(TCCN)**, July 2026, Early Access, (JCR Q1). [PDF]()
