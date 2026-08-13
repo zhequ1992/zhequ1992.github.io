@@ -131,36 +131,42 @@ Conference Paper
 
 Journal Paper
 ====
-25. <ins>Title:</ins> Inter-instance similarity modeling for contrastive learning,\
+27. <ins>Title:</ins> Modality-incomplete Federated Learning via Personalized Prompt Generation and Alignment,\
+<ins>Authors:</ins> Shu Wang, **Zhe Qu**, Yuan Liu, Shichao Kan and Jianxin Wang\
+<ins>Proc:</ins> Pattern Recognition **(PR)**, December 2026, Volume 180, (CCF B). [PDF]()
+26. <ins>Title:</ins> Inter-instance similarity modeling for contrastive learning,\
 <ins>Authors:</ins> Chengchao Shen, Dawei Liu, Hao Tang, **Zhe Qu**, and Jianxin Wang\
 <ins>Proc:</ins> Pattern Recognition **(PR)**, December 2026, Volume 180, (CCF B). [PDF]()
-24. <ins>Title:</ins> GT^2D: Unifying Temporal Dynamics and Spatial Topology for Encrypted Traffic Anomaly Detection,\
+25. <ins>Title:</ins> Federated Medical Image Segmentation with Attention-Based Structure Knowledge Ensemble,\
+<ins>Authors:</ins> Shu Wang, **Zhe Qu**, Chengchao Shen, and Jianxin Wang\
+<ins>Proc:</ins> Big Data Mining and Analytics, Early Access, August 2026, (JCR Q1). [PDF](https://www.sciopen.com/article/pdf/10.26599/BDMA.2026.9020005.pdf)
+24. <ins>Title:</ins> You Only Forward Once: Prediction and Rationalization in a Single Forward Pass,\
+<ins>Authors:</ins> Wei Xue, Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang\
+<ins>Proc:</ins> Big Data Mining and Analytics, Volume: 9, PP. 959-977, August 2025, (JCR Q1). [PDF]([[https://www.sciencedirect.com/science/article/pii/S0925231226000251]](https://www.sciopen.com/article/pdf/10.26599/BDMA.2025.9020084.pdf))
+23. <ins>Title:</ins> GT^2D: Unifying Temporal Dynamics and Spatial Topology for Encrypted Traffic Anomaly Detection,\
 <ins>Authors:</ins> Zhongqi Miao, Lixing Chen, Yang Bai, **Zhe Qu**, Pan Zhou, Heqiang Wang, and Youqi Li\
 <ins>Proc:</ins> IEEE Transactions on Cognitive Communications and Networking **(TCCN)**, July 2026, Early Access, (JCR Q1). [PDF]()
-23. <ins>Title:</ins> Making the Best of Both Worlds: Universal Perturbations for Live Black-Box Evasion against NIDS in Encrypted Traffic,\
+22. <ins>Title:</ins> Making the Best of Both Worlds: Universal Perturbations for Live Black-Box Evasion against NIDS in Encrypted Traffic,\
 <ins>Authors:</ins> Hua Ding, Lixing Chen, Bo Zhang, Hao Peng, Shenghong Li, **Zhe Qu**, Pan Zhou, and Yang Bai\
-<ins>Proc:</ins> IEEE/ACM Transactions on Networking **(TON)**, June 2026, Early Access, (CCF A). [PDF]()
-22. <ins>Title:</ins> HCMReg: A Pyramid Network with Hybrid Encoder and Cross Mamba Fusion for Unsupervised Medical Image Registration,\
+<ins>Proc:</ins> IEEE/ACM Transactions on Networking **(TON)**, vol. 34, pp. 6013-6028, July 2026, (CCF A). [PDF]()
+21. <ins>Title:</ins> HCMReg: A Pyramid Network with Hybrid Encoder and Cross Mamba Fusion for Unsupervised Medical Image Registration,\
 <ins>Authors:</ins> Hulin Kuang, Guangheng Wu, **Zhe Qu**, and Jie Wang\
 <ins>Proc:</ins> IEEE Transactions on Radiation and Plasma Medical Sciences **(TRPMS)**, March 2026, Early Access. [PDF]()
-21. <ins>Title:</ins> Hybrid Computing of Decentralized Applications in Edge Web 3.0: A Scheduling Strategy via Decision Transformer,\
+20. <ins>Title:</ins> Hybrid Computing of Decentralized Applications in Edge Web 3.0: A Scheduling Strategy via Decision Transformer,\
 <ins>Authors:</ins> Zhongqi Miao, Xichun Cai, Lixing Chen, Yang Bai, Hongfu Liu, **Zhe Qu**, Pan Zhou, Xinping Guan\
-<ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, February 2026, Early Access, (CCF A). [PDF]()
-20. <ins>Title:</ins> Time Will Tell: Criss-cross Transformer for Encrypted Traffic Analysis,\
+<ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, vol. 25, no. 7, pp. 10910-10923, July 2026, (CCF A). [PDF]()
+19. <ins>Title:</ins> Time Will Tell: Criss-cross Transformer for Encrypted Traffic Analysis,\
 <ins>Authors:</ins> Hua Ding, Lixing Chen, Bo Zhang, Shenghong Li, Hao Peng, **Zhe Qu**, Yang Bai\
-<ins>Proc:</ins> IEEE Transactions on Services Computing **(TSC)**, February 2026, Early Access, (CCF A). [PDF]()
-19. <ins>Title:</ins> DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Reinforcement Learning Framework with Heterogeneous Graph Neural Networks,\
+<ins>Proc:</ins> IEEE Transactions on Services Computing **(TSC)**, vol. 19, no. 2, pp. 1549-1562, March-April 2026, (CCF A). [PDF]()
+18. <ins>Title:</ins> DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Reinforcement Learning Framework with Heterogeneous Graph Neural Networks,\
 <ins>Authors:</ins> Zhongqi Miao, Xichun Cai, Lixing Chen, Yang Bai, Heqiang Wang, **Zhe Qu**, Pan Zhou, Xinping Guan\
-<ins>Proc:</ins> IEEE/ACM Transactions on Networking **(TON)**, January 2026, Early Access, (CCF A). [PDF]()
-18. <ins>Title:</ins> Integrating spatial features and dynamically learned temporal features via contrastive learning for video temporal grounding in LLM,\
+<ins>Proc:</ins> IEEE/ACM Transactions on Networking **(TON)**, vol. 34, pp. 3288-3302, Feburary 2026, (CCF A). [PDF]()
+17. <ins>Title:</ins> Integrating spatial features and dynamically learned temporal features via contrastive learning for video temporal grounding in LLM,\
 <ins>Authors:</ins> Peifu Wang, Yixiong Liang, Yigang Cen, Lihui Cen, **Zhe Qu**, Jingling Liu, and Shichao Kan\
 <ins>Proc:</ins> Image and Vision Computing, Volume: 167, January 2026, PP. 105895, (JCR Q1). [PDF]([https://www.sciencedirect.com/science/article/pii/S0925231226000251])
-17. <ins>Title:</ins> Adaptive Momentum Enhanced Second-Order Stochastic Federated Learning,\
+16. <ins>Title:</ins> Adaptive Momentum Enhanced Second-Order Stochastic Federated Learning,\
 <ins>Authors:</ins> Jiahao Zhang\#, Xiaokang Pan\#, Jingling Liu, and **Zhe Qu\***\
 <ins>Proc:</ins> Neurocomputing, Volume: 670, January 2026, PP. 132628, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0925231226000251)
-16. <ins>Title:</ins> You Only Forward Once: Prediction and Rationalization in a Single Forward Pass,\
-<ins>Authors:</ins> Wei Xue, Han Jiang, Junwen Duan, **Zhe Qu**, and Jianxin Wang\
-<ins>Proc:</ins> Big Data Mining and Analytics, Early Access, September 2025, (JCR Q1). [PDF]([[https://www.sciencedirect.com/science/article/pii/S0925231226000251]](https://www.sciopen.com/article/pdf/10.26599/BDMA.2025.9020084.pdf))
 15. <ins>Title:</ins> Compressed Hierarchical Federated Learning for Edge-Level Imbalanced Wireless Networks,\
 <ins>Authors:</ins> Yuan Liu\#, **Zhe Qu\***, and Jianxin Wang,\
 <ins>Proc:</ins> IEEE Transactions on Computational Social Systems **(TCSS)**, Volume: 12, Issue: 5, PP. 3131-3142, October 2025, (JCR Q1). [PDF]()
@@ -178,28 +184,28 @@ Journal Paper
 <ins>Proc:</ins> Expert Systems with Applications, Vol: 263, pp. 125700, March 2025, (JCR Q1). [PDF](https://www.sciencedirect.com/science/article/pii/S0957417424025673)
 10. <ins>Title:</ins> On Adaptive Edge Microservice Placement: A Reinforcement Learning Approach Endowed with Graph Comprehension,\
 <ins>Authors:</ins> Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, **Zhe Qu**, and Jie Xu,\
-<ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 23, Issue: 12, pp. 11144-11158, Dec. 2024, (CCF A). [PDF]([https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf])
+<ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 23, Issue: 12, pp. 11144-11158, December 2024, (CCF A). [PDF]([https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf])
 9. <ins>Title:</ins> Bandwidth Allocation for Federated Learning under Wireless Providers with Cost Constraints,\
    <ins>Authors:</ins> Jiahao Xue, **Zhe Qu\***, Jie Xu, Yao Liu, and Zhuo Lu,\
    <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 23, Issue: 6, pp. 7470-7482, June 2024, (CCF A). [PDF](https://csalab.site/getsrc/?n=papers/24xqx-tmc.pdf)
 8. <ins>Title:</ins> Segmenting Ischemic Penumbra and Infarct Core Simultaneously on Non-Contrast CT of Patients with Acute Ischemic Stroke Using A Novel Convolutional Neural Network,\
    <ins>Authors:</ins> Hulin Kuang, Xianzhen Tan, Jie Wang, **Zhe Qu**, Yuxin Cai, Qiong Chen, Beom Joon Kim, and Wu Qiu,\
-   <ins>Proc:</ins> Biomedicines, Mar 2024. [PDF](https://www.mdpi.com/2227-9059/12/3/580)
+   <ins>Proc:</ins> Biomedicines, March 2024. [PDF](https://www.mdpi.com/2227-9059/12/3/580)
 7. <ins>Title:</ins> FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation,\
    <ins>Authors:</ins> Xingyu Li, **Zhe Qu**, Bo Tang, and Zhuo Lu,\
-   <ins>Proc:</ins> IEEE Transactions on Cybernetics **(TCYB)**, Vol. 54, no. 1, pp. 401-414, Jan. 2024, (CCF B). [PDF](https://arxiv.org/pdf/2112.11989.pdf)
+   <ins>Proc:</ins> IEEE Transactions on Cybernetics **(TCYB)**, Vol. 54, no. 1, pp. 401-414, January 2024, (CCF B). [PDF](https://arxiv.org/pdf/2112.11989.pdf)
 6. <ins>Title:</ins> On the Convergence of Multi-Server Federated Learning with Overlapping Area,\
    <ins>Authors:</ins> **Zhe Qu**, Xingyu Li, Jie Xu, Bo Tang, Zhuo Lu, and Yao Liu,\
-   <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 22, Issue: 11, 01, pp. 6647-6662, Nov 2023, (CCF A). [PDF](https://arxiv.org/pdf/2208.07893.pdf)
+   <ins>Proc:</ins> IEEE Transactions on Mobile Computing **(TMC)**, Vol: 22, Issue: 11, 01, pp. 6647-6662, November 2023, (CCF A). [PDF](https://arxiv.org/pdf/2208.07893.pdf)
 5. <ins>Title:</ins> Modeling Global Distribution for Federated Learning with Label Distribution Skew,\
    <ins>Authors:</ins> Tao Sheng, Chengchao Shen, Yuan Liu\#, Yeyu Ou, **Zhe Qu**, Yixiong Liang, and Jianxin Wang,\
-   <ins>Proc:</ins> Pattern Recognition **(PR)**, vol. 143, pp. 109724, Nov 2023, (CCF B). [PDF](https://arxiv.org/abs/2212.08883.pdf)
+   <ins>Proc:</ins> Pattern Recognition **(PR)**, vol. 143, pp. 109724, November 2023, (CCF B). [PDF](https://arxiv.org/abs/2212.08883.pdf)
 4. <ins>Title:</ins> LoMar: A Local Defense Against Poisoning Attack on Federated Learning,\
    <ins>Authors:</ins> Xingyu Li, **Zhe Qu**, Shangqing Zhao, Bo Tang, Zhuo Lu, and Yao Liu, (Co-Primary Authors)\
-   <ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, vol. 20, no. 1, pp. 437-450, Jan 2023, (CCF A). [PDF](https://arxiv.org/pdf/2201.02873.pdf)
+   <ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, vol. 20, no. 1, pp. 437-450, January 2023, (CCF A). [PDF](https://arxiv.org/pdf/2201.02873.pdf)
 3. <ins>Title:</ins> Context-Aware Online Client Selection for Hierarchical Federated Learning,\
    <ins>Authors:</ins> **Zhe Qu**, Rui Duan, Lixing Chen, Jie Xu, Zhuo Lu, and Yao Liu,\
-   <ins>Proc:</ins> IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Vol: 33, Issue: 12, 01, pp. 4353-4367, Dec 2022, (CCF A). [PDF](https://arxiv.org/pdf/2112.00925.pdf)
+   <ins>Proc:</ins> IEEE Transactions on Parallel and Distributed Systems **(TPDS)**, Vol: 33, Issue: 12, 01, pp. 4353-4367, December 2022, (CCF A). [PDF](https://arxiv.org/pdf/2112.00925.pdf)
 2. <ins>Title:</ins> How to Test the Randomness From the Wireless Channel for Security?\
    <ins>Authors:</ins> **Zhe Qu**, Shangqing Zhao, Jie Xu, Zhuo Lu, and Yao Liu,\
     <ins>Proc:</ins> IEEE Transactions on Information Forensics and Security **(TIFS)**, vol. 16, pp. 3753-3766, June 2021, (CCF A). [PDF](https://arxiv.org/pdf/2106.07715.pdf)
