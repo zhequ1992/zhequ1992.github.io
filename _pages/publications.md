@@ -131,6 +131,9 @@ Conference Paper
 
 Journal Paper
 ====
+28. <ins>Title:</ins> Augur: Thwarting Traffic Correlation Attacks with Predictive, Real-time Perturbations,\
+<ins>Authors:</ins> Xilin Ni, Lixing Chen, Zhongqi Miao, Yang Bai, **Zhe Qu**, Pan Zhou, and Jianhua Li\
+<ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, August 2026, Early Access, (CCF A). [PDF]()
 27. <ins>Title:</ins> Modality-incomplete Federated Learning via Personalized Prompt Generation and Alignment,\
 <ins>Authors:</ins> Shu Wang, **Zhe Qu**, Yuan Liu, Shichao Kan and Jianxin Wang\
 <ins>Proc:</ins> Pattern Recognition **(PR)**, December 2026, Volume 180, (CCF B). [PDF]()
