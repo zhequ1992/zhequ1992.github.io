@@ -14,6 +14,12 @@ g { color: Green }
 
 Conference Paper
 ====
+40. <ins>Title:</ins> Migrant: A Cross-Domain Transfer Website Fingerprinting Attack via Effective Knowledge Transfer,\
+<ins>Authors:</ins> **Zhe Qu**, Xiangyu Gao\#, Yuheng Zhang\#, Lixing Chen, Xiaoting Lyu, and Yao Liu,\
+<ins>Proc:</ins> Network and Distributed System Security Symposium **(NDSS)**, March 2027, (CCF A). [PDF]()
+39. <ins>Title:</ins> POISE: Instance-Specific Prompt Tuning under Latent Mixture Target Distributions,\
+<ins>Authors:</ins> Wenhao Zheng\#, Shuai Xu, Lixing Chen, Xiu Su, Shichao Kan, Xiaoting Lyu, and **Zhe Qu\***,\
+<ins>Proc:</ins> Annual Conference on Neural Information Processing Systems **(NeurIPS)**, December 2026, (CCF A). [PDF]()
 38. <ins>Title:</ins> PERMAB-GNN: Graph-Structured Prioritized Reinforcement Learning for Resource Allocation in Multi-UAV-Assisted Ultra-Dense Networks,\
 <ins>Authors:</ins> Shuai Li\#, Yuxuan Zhang, Yang Xiao, and **Zhe Qu\***,\
 <ins>Proc:</ins> International Conference on Wireless Artificial Intelligent Computing Systems and Applications **(WASA)**, June 2026, (CCF C). [PDF]()
@@ -131,6 +137,9 @@ Conference Paper
 
 Journal Paper
 ====
+29. <ins>Title:</ins> Every Locale Has Its Rhythm: Endow Time-Series Transformers with Spatial Insights for Long-term Spatio-Temporal Forecasting,\
+<ins>Authors:</ins> Zhongqi Miao, Lixing Chen, Yang Bai, **Zhe Qu**, and Pan Zhou\
+<ins>Proc:</ins> ACM Transactions on Intelligent Systems and Technology **(TIST)**, October 2026, Early Access, (CCF B). [PDF]()
 28. <ins>Title:</ins> Augur: Thwarting Traffic Correlation Attacks with Predictive, Real-time Perturbations,\
 <ins>Authors:</ins> Xilin Ni, Lixing Chen, Zhongqi Miao, Yang Bai, **Zhe Qu**, Pan Zhou, and Jianhua Li\
 <ins>Proc:</ins> IEEE Transactions on Dependable and Secure Computing **(TDSC)**, August 2026, Early Access, (CCF A). [PDF]()
